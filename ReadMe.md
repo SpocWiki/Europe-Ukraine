@@ -109,8 +109,8 @@ id: Ukraine
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ukraine//
-markerFolder: ./Ukraine//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Ukraine] 
