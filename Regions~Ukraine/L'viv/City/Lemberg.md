@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.05] 
-[geo-lat::49.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.05] 
+[has_place_latitude::49.83] 
 [name::Lemberg] 
 State ::  
 Country :: [[Poland]]  

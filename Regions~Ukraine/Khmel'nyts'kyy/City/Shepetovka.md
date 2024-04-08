@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.07] 
-[geo-lat::50.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.07] 
+[has_place_latitude::50.2] 
 [name::Shepetovka] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35.72] 
-[geo-lat::45.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.72] 
+[has_place_latitude::45.2] 
 [name::Koslow] 
 State ::  
 Country :: [[Russia]]  

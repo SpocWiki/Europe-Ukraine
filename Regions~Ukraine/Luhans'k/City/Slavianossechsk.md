@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.98] 
-[geo-lat::48.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.98] 
+[has_place_latitude::48.2] 
 [name::Slavianossechsk] 
 State ::  
 Country :: [[Russia]]  

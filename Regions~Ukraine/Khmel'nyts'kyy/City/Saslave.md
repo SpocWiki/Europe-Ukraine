@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.8] 
-[geo-lat::50.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.8] 
+[has_place_latitude::50.12] 
 [name::Saslave] 
 State ::  
 Country :: [[Russia]]  

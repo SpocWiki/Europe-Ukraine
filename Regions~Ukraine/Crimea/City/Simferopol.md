@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::34.1] 
-[geo-lat::44.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.1] 
+[has_place_latitude::44.95] 
 [name::Simferopol] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.05] 
-[geo-lat::48.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.05] 
+[has_place_latitude::48.8] 
 [name::Borszczow] 
 State ::  
 Country :: [[Poland]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.97] 
-[geo-lat::46.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.97] 
+[has_place_latitude::46.97] 
 [name::Nikolajew] 
 State ::  
 Country :: [[Russia]]  

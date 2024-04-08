@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.05] 
-[geo-lat::48.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.05] 
+[has_place_latitude::48.53] 
 [name::Kolomya=Kolomea] 
 State ::  
 Country :: [[Poland]]  

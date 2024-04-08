@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.58] 
-[geo-lat::49.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.58] 
+[has_place_latitude::49.92] 
 [name::Berdichef] 
 State ::  
 Country :: [[Russia]]  

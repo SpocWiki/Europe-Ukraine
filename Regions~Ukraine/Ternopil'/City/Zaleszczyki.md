@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.77] 
-[geo-lat::48.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.77] 
+[has_place_latitude::48.72] 
 [name::Zaleszczyki] 
 State ::  
 Country :: [[Poland]]  

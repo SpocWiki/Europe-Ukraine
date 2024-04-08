@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::37.62] 
-[geo-lat::48.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::37.62] 
+[has_place_latitude::48.85] 
 [name::Slaviansk] 
 State ::  
 Country :: [[Russia]]  

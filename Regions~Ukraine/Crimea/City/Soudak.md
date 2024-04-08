@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35.02] 
-[geo-lat::44.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.02] 
+[has_place_latitude::44.85] 
 [name::Soudak] 
 State ::  
 Country :: [[Russia]]  

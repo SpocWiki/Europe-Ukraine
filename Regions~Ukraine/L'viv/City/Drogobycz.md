@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.5] 
-[geo-lat::49.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.5] 
+[has_place_latitude::49.35] 
 [name::Drogobycz] 
 State ::  
 Country :: [[Russia]]  

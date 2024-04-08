@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31.3] 
-[geo-lat::51.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.3] 
+[has_place_latitude::51.48] 
 [name::Tschernigof] 
 State ::  
 Country :: [[Russia]]  

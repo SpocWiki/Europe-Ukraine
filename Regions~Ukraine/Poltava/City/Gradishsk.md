@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::33.13] 
-[geo-lat::49.2] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.13] 
+[has_place_latitude::49.2] 
 [name::Gradishsk] 
 State ::  
 Country :: [[Russia]]  

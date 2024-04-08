@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.82] 
-[geo-lat::45.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.82] 
+[has_place_latitude::45.35] 
 [name::Ismail] 
 State ::  
 Country :: [[Romania]]  

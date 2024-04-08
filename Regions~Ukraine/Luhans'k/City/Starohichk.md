@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::38.93] 
-[geo-lat::49.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.93] 
+[has_place_latitude::49.28] 
 [name::Starohichk] 
 State ::  
 Country :: [[Russia]]  

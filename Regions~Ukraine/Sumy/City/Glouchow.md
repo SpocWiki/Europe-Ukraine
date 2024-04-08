@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::33.92] 
-[geo-lat::51.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.92] 
+[has_place_latitude::51.68] 
 [name::Glouchow] 
 State ::  
 Country :: [[Russia]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.82] 
-[geo-lat::48.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.82] 
+[has_place_latitude::48.43] 
 [name::Mogilew-Podolskiy] 
 State ::  
 Country :: [[Russia]]  

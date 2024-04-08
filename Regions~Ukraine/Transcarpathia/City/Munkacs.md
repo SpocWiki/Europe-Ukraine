@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.72] 
-[geo-lat::48.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.72] 
+[has_place_latitude::48.43] 
 [name::Munkacs] 
 State ::  
 Country :: [[Hungary]]  

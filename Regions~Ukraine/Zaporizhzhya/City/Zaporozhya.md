@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::35.17] 
-[geo-lat::47.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.17] 
+[has_place_latitude::47.8] 
 [name::Zaporozhya] 
 State ::  
 Country :: [[Russia]]  

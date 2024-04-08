@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.48] 
-[geo-lat::49.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.48] 
+[has_place_latitude::49.22] 
 [name::Vinnitsa] 
 State ::  
 Country :: [[Russia]]  
