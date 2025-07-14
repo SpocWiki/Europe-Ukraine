@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brzezany.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.public.md) 
+### [Brzezany](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.md) 
 
-### [Brzezany.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.internal.md) 
+### [Brzezany.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.public.md) 
 
-### [Brzezany.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.protect.md) 
+### [Brzezany.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.internal.md) 
 
-### [Brzezany.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.private.md) 
+### [Brzezany.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.protect.md) 
 
-### [Brzezany.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.personal.md) 
+### [Brzezany.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.private.md) 
 
-### [Brzezany.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBrzezany.secret.md)
+### [Brzezany.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.personal.md) 
+
+### [Brzezany.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Brzezany.secret.md)
 

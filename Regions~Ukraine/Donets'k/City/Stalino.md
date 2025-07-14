@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stalino.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.public.md) 
+### [Stalino](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.md) 
 
-### [Stalino.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.internal.md) 
+### [Stalino.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.public.md) 
 
-### [Stalino.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.protect.md) 
+### [Stalino.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.internal.md) 
 
-### [Stalino.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.private.md) 
+### [Stalino.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.protect.md) 
 
-### [Stalino.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.personal.md) 
+### [Stalino.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.private.md) 
 
-### [Stalino.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.secret.md)
+### [Stalino.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.personal.md) 
+
+### [Stalino.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lubny.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.public.md) 
+### [Lubny](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.md) 
 
-### [Lubny.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.internal.md) 
+### [Lubny.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.public.md) 
 
-### [Lubny.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.protect.md) 
+### [Lubny.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.internal.md) 
 
-### [Lubny.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.private.md) 
+### [Lubny.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.protect.md) 
 
-### [Lubny.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.personal.md) 
+### [Lubny.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.private.md) 
 
-### [Lubny.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityLubny.secret.md)
+### [Lubny.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.personal.md) 
+
+### [Lubny.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Lubny.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschigirin.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.public.md) 
+### [Tschigirin](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.md) 
 
-### [Tschigirin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.internal.md) 
+### [Tschigirin.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.public.md) 
 
-### [Tschigirin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.protect.md) 
+### [Tschigirin.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.internal.md) 
 
-### [Tschigirin.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.private.md) 
+### [Tschigirin.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.protect.md) 
 
-### [Tschigirin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.personal.md) 
+### [Tschigirin.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.private.md) 
 
-### [Tschigirin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTschigirin.secret.md)
+### [Tschigirin.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.personal.md) 
+
+### [Tschigirin.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tschigirin.secret.md)
 

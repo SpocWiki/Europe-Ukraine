@@ -41,15 +41,17 @@ markerFolder: ./Kherson/
 
 ## Confidential Links & Embeds: 
 
-### [Kherson.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.public.md) 
+### [Kherson](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.md) 
 
-### [Kherson.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.internal.md) 
+### [Kherson.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.public.md) 
 
-### [Kherson.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.protect.md) 
+### [Kherson.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.internal.md) 
 
-### [Kherson.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.private.md) 
+### [Kherson.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.protect.md) 
 
-### [Kherson.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.personal.md) 
+### [Kherson.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.private.md) 
 
-### [Kherson.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKherson.secret.md)
+### [Kherson.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.personal.md) 
+
+### [Kherson.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kherson.secret.md)
 

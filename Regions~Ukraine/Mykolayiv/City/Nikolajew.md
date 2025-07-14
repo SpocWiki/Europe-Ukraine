@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nikolajew.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.public.md) 
+### [Nikolajew](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.md) 
 
-### [Nikolajew.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.internal.md) 
+### [Nikolajew.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.public.md) 
 
-### [Nikolajew.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.protect.md) 
+### [Nikolajew.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.internal.md) 
 
-### [Nikolajew.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.private.md) 
+### [Nikolajew.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.protect.md) 
 
-### [Nikolajew.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.personal.md) 
+### [Nikolajew.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.private.md) 
 
-### [Nikolajew.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.secret.md)
+### [Nikolajew.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.personal.md) 
+
+### [Nikolajew.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Nikolajew.secret.md)
 

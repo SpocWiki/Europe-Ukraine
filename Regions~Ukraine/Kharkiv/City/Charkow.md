@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charkow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.public.md) 
+### [Charkow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.md) 
 
-### [Charkow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.internal.md) 
+### [Charkow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.public.md) 
 
-### [Charkow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.protect.md) 
+### [Charkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.internal.md) 
 
-### [Charkow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.private.md) 
+### [Charkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.protect.md) 
 
-### [Charkow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.personal.md) 
+### [Charkow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.private.md) 
 
-### [Charkow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityCharkow.secret.md)
+### [Charkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.personal.md) 
+
+### [Charkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.secret.md)
 

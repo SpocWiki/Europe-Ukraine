@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zaporozhya.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.public.md) 
+### [Zaporozhya](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.md) 
 
-### [Zaporozhya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.internal.md) 
+### [Zaporozhya.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.public.md) 
 
-### [Zaporozhya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.protect.md) 
+### [Zaporozhya.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.internal.md) 
 
-### [Zaporozhya.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.private.md) 
+### [Zaporozhya.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.protect.md) 
 
-### [Zaporozhya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.personal.md) 
+### [Zaporozhya.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.private.md) 
 
-### [Zaporozhya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityZaporozhya.secret.md)
+### [Zaporozhya.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.personal.md) 
+
+### [Zaporozhya.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.secret.md)
 

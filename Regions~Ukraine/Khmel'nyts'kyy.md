@@ -41,15 +41,17 @@ markerFolder: ./Khmel'nyts'kyy/
 
 ## Confidential Links & Embeds: 
 
-### [Khmel'nyts'kyy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.public.md) 
+### [Khmel'nyts'kyy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.md) 
 
-### [Khmel'nyts'kyy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.internal.md) 
+### [Khmel'nyts'kyy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.public.md) 
 
-### [Khmel'nyts'kyy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.protect.md) 
+### [Khmel'nyts'kyy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.internal.md) 
 
-### [Khmel'nyts'kyy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.private.md) 
+### [Khmel'nyts'kyy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.protect.md) 
 
-### [Khmel'nyts'kyy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.personal.md) 
+### [Khmel'nyts'kyy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.private.md) 
 
-### [Khmel'nyts'kyy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKhmel'nyts'kyy.secret.md)
+### [Khmel'nyts'kyy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.personal.md) 
+
+### [Khmel'nyts'kyy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy.secret.md)
 

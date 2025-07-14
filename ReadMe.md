@@ -131,15 +131,17 @@ Capital :: [[Kiew]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\UkraineReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\UkraineReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\UkraineReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\UkraineReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\UkraineReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\UkraineReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/ReadMe.secret.md)
 

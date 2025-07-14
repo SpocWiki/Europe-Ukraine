@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovno.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.public.md) 
+### [Rovno](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.md) 
 
-### [Rovno.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.internal.md) 
+### [Rovno.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.public.md) 
 
-### [Rovno.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.protect.md) 
+### [Rovno.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.internal.md) 
 
-### [Rovno.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.private.md) 
+### [Rovno.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.protect.md) 
 
-### [Rovno.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.personal.md) 
+### [Rovno.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.private.md) 
 
-### [Rovno.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Rivne\CityRovno.secret.md)
+### [Rovno.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.personal.md) 
+
+### [Rovno.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.secret.md)
 

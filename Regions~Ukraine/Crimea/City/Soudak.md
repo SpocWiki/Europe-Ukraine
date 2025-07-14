@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soudak.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.public.md) 
+### [Soudak](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.md) 
 
-### [Soudak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.internal.md) 
+### [Soudak.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.public.md) 
 
-### [Soudak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.protect.md) 
+### [Soudak.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.internal.md) 
 
-### [Soudak.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.private.md) 
+### [Soudak.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.protect.md) 
 
-### [Soudak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.personal.md) 
+### [Soudak.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.private.md) 
 
-### [Soudak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.secret.md)
+### [Soudak.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.personal.md) 
+
+### [Soudak.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Soudak.secret.md)
 

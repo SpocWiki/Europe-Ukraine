@@ -41,15 +41,17 @@ markerFolder: ./Transcarpathia/
 
 ## Confidential Links & Embeds: 
 
-### [Transcarpathia.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.public.md) 
+### [Transcarpathia](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.md) 
 
-### [Transcarpathia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.internal.md) 
+### [Transcarpathia.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.public.md) 
 
-### [Transcarpathia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.protect.md) 
+### [Transcarpathia.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.internal.md) 
 
-### [Transcarpathia.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.private.md) 
+### [Transcarpathia.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.protect.md) 
 
-### [Transcarpathia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.personal.md) 
+### [Transcarpathia.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.private.md) 
 
-### [Transcarpathia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineTranscarpathia.secret.md)
+### [Transcarpathia.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.personal.md) 
+
+### [Transcarpathia.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.secret.md)
 

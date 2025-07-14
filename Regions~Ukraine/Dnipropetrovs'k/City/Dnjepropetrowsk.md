@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dnjepropetrowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.public.md) 
+### [Dnjepropetrowsk](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.md) 
 
-### [Dnjepropetrowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.internal.md) 
+### [Dnjepropetrowsk.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.public.md) 
 
-### [Dnjepropetrowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.protect.md) 
+### [Dnjepropetrowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.internal.md) 
 
-### [Dnjepropetrowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.private.md) 
+### [Dnjepropetrowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.protect.md) 
 
-### [Dnjepropetrowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.personal.md) 
+### [Dnjepropetrowsk.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.private.md) 
 
-### [Dnjepropetrowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.secret.md)
+### [Dnjepropetrowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.personal.md) 
+
+### [Dnjepropetrowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Dnjepropetrowsk.secret.md)
 

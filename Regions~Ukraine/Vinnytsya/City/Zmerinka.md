@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zmerinka.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.public.md) 
+### [Zmerinka](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.md) 
 
-### [Zmerinka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.internal.md) 
+### [Zmerinka.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.public.md) 
 
-### [Zmerinka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.protect.md) 
+### [Zmerinka.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.internal.md) 
 
-### [Zmerinka.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.private.md) 
+### [Zmerinka.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.protect.md) 
 
-### [Zmerinka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.personal.md) 
+### [Zmerinka.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.private.md) 
 
-### [Zmerinka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityZmerinka.secret.md)
+### [Zmerinka.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.personal.md) 
+
+### [Zmerinka.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storonetz-Putilla.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.public.md) 
+### [Storonetz-Putilla](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.md) 
 
-### [Storonetz-Putilla.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.internal.md) 
+### [Storonetz-Putilla.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.public.md) 
 
-### [Storonetz-Putilla.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.protect.md) 
+### [Storonetz-Putilla.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.internal.md) 
 
-### [Storonetz-Putilla.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.private.md) 
+### [Storonetz-Putilla.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.protect.md) 
 
-### [Storonetz-Putilla.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.personal.md) 
+### [Storonetz-Putilla.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.private.md) 
 
-### [Storonetz-Putilla.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.secret.md)
+### [Storonetz-Putilla.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.personal.md) 
+
+### [Storonetz-Putilla.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.secret.md)
 

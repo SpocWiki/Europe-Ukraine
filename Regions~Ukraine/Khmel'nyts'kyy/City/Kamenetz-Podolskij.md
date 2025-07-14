@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kamenetz-Podolskij.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.public.md) 
+### [Kamenetz-Podolskij](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.md) 
 
-### [Kamenetz-Podolskij.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.internal.md) 
+### [Kamenetz-Podolskij.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.public.md) 
 
-### [Kamenetz-Podolskij.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.protect.md) 
+### [Kamenetz-Podolskij.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.internal.md) 
 
-### [Kamenetz-Podolskij.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.private.md) 
+### [Kamenetz-Podolskij.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.protect.md) 
 
-### [Kamenetz-Podolskij.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.personal.md) 
+### [Kamenetz-Podolskij.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.private.md) 
 
-### [Kamenetz-Podolskij.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.secret.md)
+### [Kamenetz-Podolskij.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.personal.md) 
+
+### [Kamenetz-Podolskij.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Kamenetz-Podolskij.secret.md)
 

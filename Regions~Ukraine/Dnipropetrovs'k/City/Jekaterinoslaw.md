@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekaterinoslaw.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.public.md) 
+### [Jekaterinoslaw](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.md) 
 
-### [Jekaterinoslaw.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.internal.md) 
+### [Jekaterinoslaw.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.public.md) 
 
-### [Jekaterinoslaw.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.protect.md) 
+### [Jekaterinoslaw.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.internal.md) 
 
-### [Jekaterinoslaw.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.private.md) 
+### [Jekaterinoslaw.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.protect.md) 
 
-### [Jekaterinoslaw.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.personal.md) 
+### [Jekaterinoslaw.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.private.md) 
 
-### [Jekaterinoslaw.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.secret.md)
+### [Jekaterinoslaw.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.personal.md) 
+
+### [Jekaterinoslaw.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.secret.md)
 

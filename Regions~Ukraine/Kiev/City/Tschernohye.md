@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschernohye.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.public.md) 
+### [Tschernohye](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.md) 
 
-### [Tschernohye.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.internal.md) 
+### [Tschernohye.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.public.md) 
 
-### [Tschernohye.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.protect.md) 
+### [Tschernohye.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.internal.md) 
 
-### [Tschernohye.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.private.md) 
+### [Tschernohye.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.protect.md) 
 
-### [Tschernohye.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.personal.md) 
+### [Tschernohye.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.private.md) 
 
-### [Tschernohye.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTschernohye.secret.md)
+### [Tschernohye.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.personal.md) 
+
+### [Tschernohye.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.secret.md)
 

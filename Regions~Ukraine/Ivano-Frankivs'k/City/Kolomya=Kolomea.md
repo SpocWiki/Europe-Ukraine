@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kolomya=Kolomea.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.public.md) 
+### [Kolomya=Kolomea](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.md) 
 
-### [Kolomya=Kolomea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.internal.md) 
+### [Kolomya=Kolomea.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.public.md) 
 
-### [Kolomya=Kolomea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.protect.md) 
+### [Kolomya=Kolomea.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.internal.md) 
 
-### [Kolomya=Kolomea.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.private.md) 
+### [Kolomya=Kolomea.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.protect.md) 
 
-### [Kolomya=Kolomea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.personal.md) 
+### [Kolomya=Kolomea.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.private.md) 
 
-### [Kolomya=Kolomea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKolomya=Kolomea.secret.md)
+### [Kolomya=Kolomea.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.personal.md) 
+
+### [Kolomya=Kolomea.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.secret.md)
 

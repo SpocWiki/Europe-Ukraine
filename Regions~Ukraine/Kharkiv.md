@@ -41,15 +41,17 @@ markerFolder: ./Kharkiv/
 
 ## Confidential Links & Embeds: 
 
-### [Kharkiv.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.public.md) 
+### [Kharkiv](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.md) 
 
-### [Kharkiv.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.internal.md) 
+### [Kharkiv.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.public.md) 
 
-### [Kharkiv.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.protect.md) 
+### [Kharkiv.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.internal.md) 
 
-### [Kharkiv.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.private.md) 
+### [Kharkiv.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.protect.md) 
 
-### [Kharkiv.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.personal.md) 
+### [Kharkiv.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.private.md) 
 
-### [Kharkiv.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKharkiv.secret.md)
+### [Kharkiv.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.personal.md) 
+
+### [Kharkiv.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.secret.md)
 

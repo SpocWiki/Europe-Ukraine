@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poltawa.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.public.md) 
+### [Poltawa](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.md) 
 
-### [Poltawa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.internal.md) 
+### [Poltawa.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.public.md) 
 
-### [Poltawa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.protect.md) 
+### [Poltawa.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.internal.md) 
 
-### [Poltawa.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.private.md) 
+### [Poltawa.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.protect.md) 
 
-### [Poltawa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.personal.md) 
+### [Poltawa.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.private.md) 
 
-### [Poltawa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.secret.md)
+### [Poltawa.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.personal.md) 
+
+### [Poltawa.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.secret.md)
 

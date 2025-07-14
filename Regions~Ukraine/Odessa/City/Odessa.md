@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Odessa.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.public.md) 
+### [Odessa](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.md) 
 
-### [Odessa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.internal.md) 
+### [Odessa.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.public.md) 
 
-### [Odessa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.protect.md) 
+### [Odessa.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.internal.md) 
 
-### [Odessa.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.private.md) 
+### [Odessa.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.protect.md) 
 
-### [Odessa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.personal.md) 
+### [Odessa.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.private.md) 
 
-### [Odessa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityOdessa.secret.md)
+### [Odessa.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.personal.md) 
+
+### [Odessa.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.secret.md)
 

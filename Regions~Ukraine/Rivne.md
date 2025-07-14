@@ -41,15 +41,17 @@ markerFolder: ./Rivne/
 
 ## Confidential Links & Embeds: 
 
-### [Rivne.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.public.md) 
+### [Rivne](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.md) 
 
-### [Rivne.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.internal.md) 
+### [Rivne.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.public.md) 
 
-### [Rivne.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.protect.md) 
+### [Rivne.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.internal.md) 
 
-### [Rivne.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.private.md) 
+### [Rivne.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.protect.md) 
 
-### [Rivne.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.personal.md) 
+### [Rivne.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.private.md) 
 
-### [Rivne.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineRivne.secret.md)
+### [Rivne.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.personal.md) 
+
+### [Rivne.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.secret.md)
 

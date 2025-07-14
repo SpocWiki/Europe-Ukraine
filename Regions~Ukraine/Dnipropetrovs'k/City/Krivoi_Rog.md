@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Krivoi_Rog.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.public.md) 
+### [Krivoi_Rog](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.md) 
 
-### [Krivoi_Rog.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.internal.md) 
+### [Krivoi_Rog.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.public.md) 
 
-### [Krivoi_Rog.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.protect.md) 
+### [Krivoi_Rog.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.internal.md) 
 
-### [Krivoi_Rog.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.private.md) 
+### [Krivoi_Rog.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.protect.md) 
 
-### [Krivoi_Rog.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.personal.md) 
+### [Krivoi_Rog.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.private.md) 
 
-### [Krivoi_Rog.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityKrivoi_Rog.secret.md)
+### [Krivoi_Rog.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.personal.md) 
+
+### [Krivoi_Rog.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Krivoi_Rog.secret.md)
 

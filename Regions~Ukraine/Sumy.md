@@ -41,15 +41,17 @@ markerFolder: ./Sumy/
 
 ## Confidential Links & Embeds: 
 
-### [Sumy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.public.md) 
+### [Sumy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.md) 
 
-### [Sumy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.internal.md) 
+### [Sumy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.public.md) 
 
-### [Sumy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.protect.md) 
+### [Sumy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.internal.md) 
 
-### [Sumy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.private.md) 
+### [Sumy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.protect.md) 
 
-### [Sumy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.personal.md) 
+### [Sumy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.private.md) 
 
-### [Sumy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineSumy.secret.md)
+### [Sumy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.personal.md) 
+
+### [Sumy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarachtcha.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.public.md) 
+### [Tarachtcha](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.md) 
 
-### [Tarachtcha.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.internal.md) 
+### [Tarachtcha.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.public.md) 
 
-### [Tarachtcha.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.protect.md) 
+### [Tarachtcha.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.internal.md) 
 
-### [Tarachtcha.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.private.md) 
+### [Tarachtcha.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.protect.md) 
 
-### [Tarachtcha.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.personal.md) 
+### [Tarachtcha.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.private.md) 
 
-### [Tarachtcha.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTarachtcha.secret.md)
+### [Tarachtcha.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.personal.md) 
+
+### [Tarachtcha.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tarachtcha.secret.md)
 

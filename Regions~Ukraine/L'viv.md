@@ -41,15 +41,17 @@ markerFolder: ./L'viv/
 
 ## Confidential Links & Embeds: 
 
-### [L'viv.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.public.md) 
+### [L'viv](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.md) 
 
-### [L'viv.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.internal.md) 
+### [L'viv.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.public.md) 
 
-### [L'viv.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.protect.md) 
+### [L'viv.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.internal.md) 
 
-### [L'viv.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.private.md) 
+### [L'viv.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.protect.md) 
 
-### [L'viv.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.personal.md) 
+### [L'viv.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.private.md) 
 
-### [L'viv.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineL'viv.secret.md)
+### [L'viv.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.personal.md) 
+
+### [L'viv.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.secret.md)
 

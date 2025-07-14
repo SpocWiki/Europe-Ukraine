@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ungvar.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.public.md) 
+### [Ungvar](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.md) 
 
-### [Ungvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.internal.md) 
+### [Ungvar.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.public.md) 
 
-### [Ungvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.protect.md) 
+### [Ungvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.internal.md) 
 
-### [Ungvar.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.private.md) 
+### [Ungvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.protect.md) 
 
-### [Ungvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.personal.md) 
+### [Ungvar.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.private.md) 
 
-### [Ungvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.secret.md)
+### [Ungvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.personal.md) 
+
+### [Ungvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.secret.md)
 

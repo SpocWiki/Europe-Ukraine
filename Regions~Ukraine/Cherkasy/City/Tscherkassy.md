@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tscherkassy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.public.md) 
+### [Tscherkassy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.md) 
 
-### [Tscherkassy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.internal.md) 
+### [Tscherkassy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.public.md) 
 
-### [Tscherkassy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.protect.md) 
+### [Tscherkassy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.internal.md) 
 
-### [Tscherkassy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.private.md) 
+### [Tscherkassy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.protect.md) 
 
-### [Tscherkassy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.personal.md) 
+### [Tscherkassy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.private.md) 
 
-### [Tscherkassy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CityTscherkassy.secret.md)
+### [Tscherkassy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.personal.md) 
+
+### [Tscherkassy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Tscherkassy.secret.md)
 

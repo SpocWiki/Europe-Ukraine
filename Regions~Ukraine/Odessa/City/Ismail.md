@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ismail.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.public.md) 
+### [Ismail](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.md) 
 
-### [Ismail.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.internal.md) 
+### [Ismail.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.public.md) 
 
-### [Ismail.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.protect.md) 
+### [Ismail.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.internal.md) 
 
-### [Ismail.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.private.md) 
+### [Ismail.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.protect.md) 
 
-### [Ismail.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.personal.md) 
+### [Ismail.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.private.md) 
 
-### [Ismail.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.secret.md)
+### [Ismail.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.personal.md) 
+
+### [Ismail.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.secret.md)
 

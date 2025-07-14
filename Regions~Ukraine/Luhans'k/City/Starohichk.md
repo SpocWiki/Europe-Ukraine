@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Starohichk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.public.md) 
+### [Starohichk](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.md) 
 
-### [Starohichk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.internal.md) 
+### [Starohichk.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.public.md) 
 
-### [Starohichk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.protect.md) 
+### [Starohichk.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.internal.md) 
 
-### [Starohichk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.private.md) 
+### [Starohichk.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.protect.md) 
 
-### [Starohichk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.personal.md) 
+### [Starohichk.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.private.md) 
 
-### [Starohichk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityStarohichk.secret.md)
+### [Starohichk.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.personal.md) 
+
+### [Starohichk.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.secret.md)
 

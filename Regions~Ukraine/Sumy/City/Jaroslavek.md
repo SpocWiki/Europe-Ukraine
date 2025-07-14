@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jaroslavek.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.public.md) 
+### [Jaroslavek](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.md) 
 
-### [Jaroslavek.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.internal.md) 
+### [Jaroslavek.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.public.md) 
 
-### [Jaroslavek.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.protect.md) 
+### [Jaroslavek.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.internal.md) 
 
-### [Jaroslavek.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.private.md) 
+### [Jaroslavek.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.protect.md) 
 
-### [Jaroslavek.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.personal.md) 
+### [Jaroslavek.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.private.md) 
 
-### [Jaroslavek.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityJaroslavek.secret.md)
+### [Jaroslavek.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.personal.md) 
+
+### [Jaroslavek.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.secret.md)
 

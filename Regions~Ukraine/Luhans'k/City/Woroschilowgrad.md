@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woroschilowgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.public.md) 
+### [Woroschilowgrad](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.md) 
 
-### [Woroschilowgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.internal.md) 
+### [Woroschilowgrad.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.public.md) 
 
-### [Woroschilowgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.protect.md) 
+### [Woroschilowgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.internal.md) 
 
-### [Woroschilowgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.private.md) 
+### [Woroschilowgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.protect.md) 
 
-### [Woroschilowgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.personal.md) 
+### [Woroschilowgrad.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.private.md) 
 
-### [Woroschilowgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityWoroschilowgrad.secret.md)
+### [Woroschilowgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.personal.md) 
+
+### [Woroschilowgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.secret.md)
 

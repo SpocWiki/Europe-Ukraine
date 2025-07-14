@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beregszasz.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.public.md) 
+### [Beregszasz](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.md) 
 
-### [Beregszasz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.internal.md) 
+### [Beregszasz.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.public.md) 
 
-### [Beregszasz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.protect.md) 
+### [Beregszasz.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.internal.md) 
 
-### [Beregszasz.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.private.md) 
+### [Beregszasz.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.protect.md) 
 
-### [Beregszasz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.personal.md) 
+### [Beregszasz.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.private.md) 
 
-### [Beregszasz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.secret.md)
+### [Beregszasz.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.personal.md) 
+
+### [Beregszasz.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.secret.md)
 

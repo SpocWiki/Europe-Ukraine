@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Swenigorodka.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.public.md) 
+### [Swenigorodka](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.md) 
 
-### [Swenigorodka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.internal.md) 
+### [Swenigorodka.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.public.md) 
 
-### [Swenigorodka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.protect.md) 
+### [Swenigorodka.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.internal.md) 
 
-### [Swenigorodka.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.private.md) 
+### [Swenigorodka.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.protect.md) 
 
-### [Swenigorodka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.personal.md) 
+### [Swenigorodka.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.private.md) 
 
-### [Swenigorodka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Cherkasy\CitySwenigorodka.secret.md)
+### [Swenigorodka.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.personal.md) 
+
+### [Swenigorodka.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.secret.md)
 

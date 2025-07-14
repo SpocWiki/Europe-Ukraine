@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glouchow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.public.md) 
+### [Glouchow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.md) 
 
-### [Glouchow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.internal.md) 
+### [Glouchow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.public.md) 
 
-### [Glouchow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.protect.md) 
+### [Glouchow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.internal.md) 
 
-### [Glouchow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.private.md) 
+### [Glouchow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.protect.md) 
 
-### [Glouchow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.personal.md) 
+### [Glouchow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.private.md) 
 
-### [Glouchow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CityGlouchow.secret.md)
+### [Glouchow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.personal.md) 
+
+### [Glouchow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.secret.md)
 

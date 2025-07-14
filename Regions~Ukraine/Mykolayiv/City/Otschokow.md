@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Otschokow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.public.md) 
+### [Otschokow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.md) 
 
-### [Otschokow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.internal.md) 
+### [Otschokow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.public.md) 
 
-### [Otschokow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.protect.md) 
+### [Otschokow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.internal.md) 
 
-### [Otschokow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.private.md) 
+### [Otschokow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.protect.md) 
 
-### [Otschokow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.personal.md) 
+### [Otschokow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.private.md) 
 
-### [Otschokow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityOtschokow.secret.md)
+### [Otschokow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.personal.md) 
+
+### [Otschokow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.secret.md)
 

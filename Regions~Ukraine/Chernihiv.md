@@ -41,15 +41,17 @@ markerFolder: ./Chernihiv/
 
 ## Confidential Links & Embeds: 
 
-### [Chernihiv.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.public.md) 
+### [Chernihiv](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.md) 
 
-### [Chernihiv.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.internal.md) 
+### [Chernihiv.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.public.md) 
 
-### [Chernihiv.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.protect.md) 
+### [Chernihiv.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.internal.md) 
 
-### [Chernihiv.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.private.md) 
+### [Chernihiv.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.protect.md) 
 
-### [Chernihiv.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.personal.md) 
+### [Chernihiv.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.private.md) 
 
-### [Chernihiv.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernihiv.secret.md)
+### [Chernihiv.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.personal.md) 
+
+### [Chernihiv.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv.secret.md)
 

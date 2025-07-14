@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sosnitza.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.public.md) 
+### [Sosnitza](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.md) 
 
-### [Sosnitza.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.internal.md) 
+### [Sosnitza.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.public.md) 
 
-### [Sosnitza.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.protect.md) 
+### [Sosnitza.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.internal.md) 
 
-### [Sosnitza.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.private.md) 
+### [Sosnitza.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.protect.md) 
 
-### [Sosnitza.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.personal.md) 
+### [Sosnitza.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.private.md) 
 
-### [Sosnitza.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CitySosnitza.secret.md)
+### [Sosnitza.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.personal.md) 
+
+### [Sosnitza.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Sosnitza.secret.md)
 

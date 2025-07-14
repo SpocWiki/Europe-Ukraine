@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lugansk=Voroshilovgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.public.md) 
+### [Lugansk=Voroshilovgrad](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.md) 
 
-### [Lugansk=Voroshilovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.internal.md) 
+### [Lugansk=Voroshilovgrad.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.public.md) 
 
-### [Lugansk=Voroshilovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.protect.md) 
+### [Lugansk=Voroshilovgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.internal.md) 
 
-### [Lugansk=Voroshilovgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.private.md) 
+### [Lugansk=Voroshilovgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.protect.md) 
 
-### [Lugansk=Voroshilovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.personal.md) 
+### [Lugansk=Voroshilovgrad.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.private.md) 
 
-### [Lugansk=Voroshilovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.secret.md)
+### [Lugansk=Voroshilovgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.personal.md) 
+
+### [Lugansk=Voroshilovgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Lugansk=Voroshilovgrad.secret.md)
 

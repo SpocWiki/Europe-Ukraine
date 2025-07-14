@@ -41,15 +41,17 @@ markerFolder: ./Poltava/
 
 ## Confidential Links & Embeds: 
 
-### [Poltava.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.public.md) 
+### [Poltava](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.md) 
 
-### [Poltava.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.internal.md) 
+### [Poltava.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.public.md) 
 
-### [Poltava.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.protect.md) 
+### [Poltava.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.internal.md) 
 
-### [Poltava.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.private.md) 
+### [Poltava.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.protect.md) 
 
-### [Poltava.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.personal.md) 
+### [Poltava.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.private.md) 
 
-### [Poltava.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkrainePoltava.secret.md)
+### [Poltava.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.personal.md) 
+
+### [Poltava.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava.secret.md)
 

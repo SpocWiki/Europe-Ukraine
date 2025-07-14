@@ -41,15 +41,17 @@ markerFolder: ./Crimea/
 
 ## Confidential Links & Embeds: 
 
-### [Crimea.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.public.md) 
+### [Crimea](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.md) 
 
-### [Crimea.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.internal.md) 
+### [Crimea.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.public.md) 
 
-### [Crimea.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.protect.md) 
+### [Crimea.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.internal.md) 
 
-### [Crimea.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.private.md) 
+### [Crimea.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.protect.md) 
 
-### [Crimea.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.personal.md) 
+### [Crimea.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.private.md) 
 
-### [Crimea.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineCrimea.secret.md)
+### [Crimea.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.personal.md) 
+
+### [Crimea.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.secret.md)
 

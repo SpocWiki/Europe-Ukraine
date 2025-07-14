@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slavianossechsk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.public.md) 
+### [Slavianossechsk](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.md) 
 
-### [Slavianossechsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.internal.md) 
+### [Slavianossechsk.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.public.md) 
 
-### [Slavianossechsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.protect.md) 
+### [Slavianossechsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.internal.md) 
 
-### [Slavianossechsk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.private.md) 
+### [Slavianossechsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.protect.md) 
 
-### [Slavianossechsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.personal.md) 
+### [Slavianossechsk.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.private.md) 
 
-### [Slavianossechsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CitySlavianossechsk.secret.md)
+### [Slavianossechsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.personal.md) 
+
+### [Slavianossechsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.secret.md)
 
