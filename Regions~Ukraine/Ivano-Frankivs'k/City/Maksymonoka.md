@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka|Maksymonoka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.public|Maksymonoka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.internal|Maksymonoka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.protect|Maksymonoka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.private|Maksymonoka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.personal|Maksymonoka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Maksymonoka.secret|Maksymonoka.secret]] 
+
+### [Maksymonoka.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.public.md) 
+
+### [Maksymonoka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.internal.md) 
+
+### [Maksymonoka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.protect.md) 
+
+### [Maksymonoka.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.private.md) 
+
+### [Maksymonoka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.personal.md) 
+
+### [Maksymonoka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityMaksymonoka.secret.md)
+

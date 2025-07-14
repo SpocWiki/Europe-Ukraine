@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa|Vinnitsa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.public|Vinnitsa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.internal|Vinnitsa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.protect|Vinnitsa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.private|Vinnitsa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.personal|Vinnitsa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vinnitsa.secret|Vinnitsa.secret]] 
+
+### [Vinnitsa.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.public.md) 
+
+### [Vinnitsa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.internal.md) 
+
+### [Vinnitsa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.protect.md) 
+
+### [Vinnitsa.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.private.md) 
+
+### [Vinnitsa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.personal.md) 
+
+### [Vinnitsa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityVinnitsa.secret.md)
+

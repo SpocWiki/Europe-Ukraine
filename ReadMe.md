@@ -129,12 +129,17 @@ Capital :: [[Kiew]]
 [has_place_latitude::50.45] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine|Ukraine]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine.public|Ukraine.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine.internal|Ukraine.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine.protect|Ukraine.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine.private|Ukraine.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine.personal|Ukraine.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine.secret|Ukraine.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\UkraineReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\UkraineReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\UkraineReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\UkraineReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\UkraineReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\UkraineReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Grodek|Grodek]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Grodek.public|Grodek.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Grodek.internal|Grodek.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Grodek.protect|Grodek.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Grodek.private|Grodek.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Grodek.personal|Grodek.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Grodek.secret|Grodek.secret]] 
+
+### [Grodek.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.public.md) 
+
+### [Grodek.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.internal.md) 
+
+### [Grodek.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.protect.md) 
+
+### [Grodek.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.private.md) 
+
+### [Grodek.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.personal.md) 
+
+### [Grodek.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityGrodek.secret.md)
+

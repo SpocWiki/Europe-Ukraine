@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Horodenra|Horodenra]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.public|Horodenra.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.internal|Horodenra.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.protect|Horodenra.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.private|Horodenra.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.personal|Horodenra.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Horodenra.secret|Horodenra.secret]] 
+
+### [Horodenra.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.public.md) 
+
+### [Horodenra.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.internal.md) 
+
+### [Horodenra.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.protect.md) 
+
+### [Horodenra.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.private.md) 
+
+### [Horodenra.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.personal.md) 
+
+### [Horodenra.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityHorodenra.secret.md)
+

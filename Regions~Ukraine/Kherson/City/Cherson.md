@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Cherson|Cherson]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Cherson.public|Cherson.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Cherson.internal|Cherson.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Cherson.protect|Cherson.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Cherson.private|Cherson.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Cherson.personal|Cherson.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Cherson.secret|Cherson.secret]] 
+
+### [Cherson.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.public.md) 
+
+### [Cherson.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.internal.md) 
+
+### [Cherson.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.protect.md) 
+
+### [Cherson.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.private.md) 
+
+### [Cherson.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.personal.md) 
+
+### [Cherson.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kherson\CityCherson.secret.md)
+

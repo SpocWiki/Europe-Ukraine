@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Poltawa|Poltawa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.public|Poltawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.internal|Poltawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.protect|Poltawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.private|Poltawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.personal|Poltawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Poltawa.secret|Poltawa.secret]] 
+
+### [Poltawa.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.public.md) 
+
+### [Poltawa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.internal.md) 
+
+### [Poltawa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.protect.md) 
+
+### [Poltawa.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.private.md) 
+
+### [Poltawa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.personal.md) 
+
+### [Poltawa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityPoltawa.secret.md)
+

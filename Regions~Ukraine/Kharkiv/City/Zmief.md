@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zmief|Zmief]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zmief.public|Zmief.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zmief.internal|Zmief.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zmief.protect|Zmief.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zmief.private|Zmief.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zmief.personal|Zmief.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zmief.secret|Zmief.secret]] 
+
+### [Zmief.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.public.md) 
+
+### [Zmief.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.internal.md) 
+
+### [Zmief.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.protect.md) 
+
+### [Zmief.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.private.md) 
+
+### [Zmief.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.personal.md) 
+
+### [Zmief.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityZmief.secret.md)
+

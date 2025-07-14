@@ -40,11 +40,16 @@ markerFolder: ./Zhytomyr/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr|Zhytomyr]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.public|Zhytomyr.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.internal|Zhytomyr.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.protect|Zhytomyr.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.private|Zhytomyr.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.personal|Zhytomyr.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zhytomyr.secret|Zhytomyr.secret]] 
+
+### [Zhytomyr.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.public.md) 
+
+### [Zhytomyr.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.internal.md) 
+
+### [Zhytomyr.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.protect.md) 
+
+### [Zhytomyr.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.private.md) 
+
+### [Zhytomyr.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.personal.md) 
+
+### [Zhytomyr.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZhytomyr.secret.md)
 

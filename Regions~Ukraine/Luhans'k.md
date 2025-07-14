@@ -40,11 +40,16 @@ markerFolder: ./Luhans'k/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k|Luhans'k]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.public|Luhans'k.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.internal|Luhans'k.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.protect|Luhans'k.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.private|Luhans'k.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.personal|Luhans'k.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Luhans'k.secret|Luhans'k.secret]] 
+
+### [Luhans'k.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.public.md) 
+
+### [Luhans'k.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.internal.md) 
+
+### [Luhans'k.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.protect.md) 
+
+### [Luhans'k.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.private.md) 
+
+### [Luhans'k.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.personal.md) 
+
+### [Luhans'k.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineLuhans'k.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Chernivtsi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi|Chernivtsi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.public|Chernivtsi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.internal|Chernivtsi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.protect|Chernivtsi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.private|Chernivtsi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.personal|Chernivtsi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Chernivtsi.secret|Chernivtsi.secret]] 
+
+### [Chernivtsi.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.public.md) 
+
+### [Chernivtsi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.internal.md) 
+
+### [Chernivtsi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.protect.md) 
+
+### [Chernivtsi.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.private.md) 
+
+### [Chernivtsi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.personal.md) 
+
+### [Chernivtsi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineChernivtsi.secret.md)
 

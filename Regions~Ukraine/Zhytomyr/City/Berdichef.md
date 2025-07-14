@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Berdichef|Berdichef]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.public|Berdichef.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.internal|Berdichef.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.protect|Berdichef.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.private|Berdichef.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.personal|Berdichef.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Berdichef.secret|Berdichef.secret]] 
+
+### [Berdichef.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.public.md) 
+
+### [Berdichef.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.internal.md) 
+
+### [Berdichef.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.protect.md) 
+
+### [Berdichef.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.private.md) 
+
+### [Berdichef.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.personal.md) 
+
+### [Berdichef.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityBerdichef.secret.md)
+

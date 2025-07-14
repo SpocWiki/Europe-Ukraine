@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Perekop|Perekop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Perekop.public|Perekop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Perekop.internal|Perekop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Perekop.protect|Perekop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Perekop.private|Perekop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Perekop.personal|Perekop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Perekop.secret|Perekop.secret]] 
+
+### [Perekop.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.public.md) 
+
+### [Perekop.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.internal.md) 
+
+### [Perekop.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.protect.md) 
+
+### [Perekop.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.private.md) 
+
+### [Perekop.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.personal.md) 
+
+### [Perekop.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityPerekop.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kosow|Kosow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kosow.public|Kosow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kosow.internal|Kosow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kosow.protect|Kosow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kosow.private|Kosow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kosow.personal|Kosow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kosow.secret|Kosow.secret]] 
+
+### [Kosow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.public.md) 
+
+### [Kosow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.internal.md) 
+
+### [Kosow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.protect.md) 
+
+### [Kosow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.private.md) 
+
+### [Kosow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.personal.md) 
+
+### [Kosow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityKosow.secret.md)
+

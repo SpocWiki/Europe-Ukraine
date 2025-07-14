@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kerch|Kerch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kerch.public|Kerch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kerch.internal|Kerch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kerch.protect|Kerch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kerch.private|Kerch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kerch.personal|Kerch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kerch.secret|Kerch.secret]] 
+
+### [Kerch.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.public.md) 
+
+### [Kerch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.internal.md) 
+
+### [Kerch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.protect.md) 
+
+### [Kerch.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.private.md) 
+
+### [Kerch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.personal.md) 
+
+### [Kerch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKerch.secret.md)
+

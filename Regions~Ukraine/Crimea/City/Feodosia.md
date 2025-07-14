@@ -35,9 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-[[Feodosia|Feodosia]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Feodosia.internal|Feodosia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Feodosia.protect|Feodosia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Feodosia.private|Feodosia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Feodosia.personal|Feodosia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Feodosia.secret|Feodosia.secret]] 
+
+### [Feodosia.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.public.md) 
+
+### [Feodosia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.internal.md) 
+
+### [Feodosia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.protect.md) 
+
+### [Feodosia.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.private.md) 
+
+### [Feodosia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.personal.md) 
+
+### [Feodosia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityFeodosia.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Saslave|Saslave]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Saslave.public|Saslave.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Saslave.internal|Saslave.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Saslave.protect|Saslave.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Saslave.private|Saslave.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Saslave.personal|Saslave.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Saslave.secret|Saslave.secret]] 
+
+### [Saslave.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.public.md) 
+
+### [Saslave.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.internal.md) 
+
+### [Saslave.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.protect.md) 
+
+### [Saslave.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.private.md) 
+
+### [Saslave.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.personal.md) 
+
+### [Saslave.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CitySaslave.secret.md)
+

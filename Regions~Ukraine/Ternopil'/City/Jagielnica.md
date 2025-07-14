@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica|Jagielnica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.public|Jagielnica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.internal|Jagielnica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.protect|Jagielnica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.private|Jagielnica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.personal|Jagielnica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Jagielnica.secret|Jagielnica.secret]] 
+
+### [Jagielnica.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.public.md) 
+
+### [Jagielnica.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.internal.md) 
+
+### [Jagielnica.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.protect.md) 
+
+### [Jagielnica.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.private.md) 
+
+### [Jagielnica.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.personal.md) 
+
+### [Jagielnica.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityJagielnica.secret.md)
+

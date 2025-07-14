@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew|Kiew]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.public|Kiew.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.internal|Kiew.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.protect|Kiew.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.private|Kiew.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.personal|Kiew.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/City/Kiew.secret|Kiew.secret]] 
+
+### [Kiew.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.public.md) 
+
+### [Kiew.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.internal.md) 
+
+### [Kiew.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.protect.md) 
+
+### [Kiew.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.private.md) 
+
+### [Kiew.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.personal.md) 
+
+### [Kiew.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev_City\CityKiew.secret.md)
+

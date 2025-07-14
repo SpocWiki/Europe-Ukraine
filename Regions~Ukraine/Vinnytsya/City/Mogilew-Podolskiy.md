@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy|Mogilew-Podolskiy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.public|Mogilew-Podolskiy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.internal|Mogilew-Podolskiy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.protect|Mogilew-Podolskiy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.private|Mogilew-Podolskiy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.personal|Mogilew-Podolskiy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Mogilew-Podolskiy.secret|Mogilew-Podolskiy.secret]] 
+
+### [Mogilew-Podolskiy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.public.md) 
+
+### [Mogilew-Podolskiy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.internal.md) 
+
+### [Mogilew-Podolskiy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.protect.md) 
+
+### [Mogilew-Podolskiy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.private.md) 
+
+### [Mogilew-Podolskiy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.personal.md) 
+
+### [Mogilew-Podolskiy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Vinnytsya\CityMogilew-Podolskiy.secret.md)
+

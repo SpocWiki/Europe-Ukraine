@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow|Starokonstaninow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.public|Starokonstaninow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.internal|Starokonstaninow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.protect|Starokonstaninow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.private|Starokonstaninow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.personal|Starokonstaninow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Starokonstaninow.secret|Starokonstaninow.secret]] 
+
+### [Starokonstaninow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.public.md) 
+
+### [Starokonstaninow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.internal.md) 
+
+### [Starokonstaninow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.protect.md) 
+
+### [Starokonstaninow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.private.md) 
+
+### [Starokonstaninow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.personal.md) 
+
+### [Starokonstaninow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityStarokonstaninow.secret.md)
+

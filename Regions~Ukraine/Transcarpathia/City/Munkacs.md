@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs|Munkacs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.public|Munkacs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.internal|Munkacs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.protect|Munkacs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.private|Munkacs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.personal|Munkacs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Munkacs.secret|Munkacs.secret]] 
+
+### [Munkacs.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.public.md) 
+
+### [Munkacs.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.internal.md) 
+
+### [Munkacs.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.protect.md) 
+
+### [Munkacs.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.private.md) 
+
+### [Munkacs.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.personal.md) 
+
+### [Munkacs.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityMunkacs.secret.md)
+

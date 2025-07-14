@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy|Nowograd=Volynskiy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.public|Nowograd=Volynskiy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.internal|Nowograd=Volynskiy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.protect|Nowograd=Volynskiy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.private|Nowograd=Volynskiy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.personal|Nowograd=Volynskiy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nowograd=Volynskiy.secret|Nowograd=Volynskiy.secret]] 
+
+### [Nowograd=Volynskiy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.public.md) 
+
+### [Nowograd=Volynskiy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.internal.md) 
+
+### [Nowograd=Volynskiy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.protect.md) 
+
+### [Nowograd=Volynskiy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.private.md) 
+
+### [Nowograd=Volynskiy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.personal.md) 
+
+### [Nowograd=Volynskiy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityNowograd=Volynskiy.secret.md)
+

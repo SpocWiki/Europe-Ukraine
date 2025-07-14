@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Triliessy|Triliessy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.public|Triliessy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.internal|Triliessy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.protect|Triliessy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.private|Triliessy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.personal|Triliessy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Triliessy.secret|Triliessy.secret]] 
+
+### [Triliessy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.public.md) 
+
+### [Triliessy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.internal.md) 
+
+### [Triliessy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.protect.md) 
+
+### [Triliessy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.private.md) 
+
+### [Triliessy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.personal.md) 
+
+### [Triliessy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityTriliessy.secret.md)
+

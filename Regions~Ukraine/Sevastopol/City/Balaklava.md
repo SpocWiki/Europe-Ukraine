@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Balaklava|Balaklava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.public|Balaklava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.internal|Balaklava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.protect|Balaklava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.private|Balaklava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.personal|Balaklava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Balaklava.secret|Balaklava.secret]] 
+
+### [Balaklava.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.public.md) 
+
+### [Balaklava.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.internal.md) 
+
+### [Balaklava.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.protect.md) 
+
+### [Balaklava.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.private.md) 
+
+### [Balaklava.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.personal.md) 
+
+### [Balaklava.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sevastopol\CityBalaklava.secret.md)
+

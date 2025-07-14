@@ -40,11 +40,16 @@ markerFolder: ./Vinnytsya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya|Vinnytsya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.public|Vinnytsya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.internal|Vinnytsya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.protect|Vinnytsya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.private|Vinnytsya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.personal|Vinnytsya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Vinnytsya.secret|Vinnytsya.secret]] 
+
+### [Vinnytsya.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.public.md) 
+
+### [Vinnytsya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.internal.md) 
+
+### [Vinnytsya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.protect.md) 
+
+### [Vinnytsya.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.private.md) 
+
+### [Vinnytsya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.personal.md) 
+
+### [Vinnytsya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVinnytsya.secret.md)
 

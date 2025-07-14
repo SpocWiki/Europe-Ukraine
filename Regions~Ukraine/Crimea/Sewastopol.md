@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol|Sewastopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.public|Sewastopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.internal|Sewastopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.protect|Sewastopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.private|Sewastopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.personal|Sewastopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sewastopol.secret|Sewastopol.secret]] 
+
+### [Sewastopol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.public.md) 
+
+### [Sewastopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.internal.md) 
+
+### [Sewastopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.protect.md) 
+
+### [Sewastopol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.private.md) 
+
+### [Sewastopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.personal.md) 
+
+### [Sewastopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\CrimeaSewastopol.secret.md)
+

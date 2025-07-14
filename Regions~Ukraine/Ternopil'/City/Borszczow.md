@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Borszczow|Borszczow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.public|Borszczow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.internal|Borszczow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.protect|Borszczow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.private|Borszczow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.personal|Borszczow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Borszczow.secret|Borszczow.secret]] 
+
+### [Borszczow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.public.md) 
+
+### [Borszczow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.internal.md) 
+
+### [Borszczow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.protect.md) 
+
+### [Borszczow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.private.md) 
+
+### [Borszczow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.personal.md) 
+
+### [Borszczow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityBorszczow.secret.md)
+

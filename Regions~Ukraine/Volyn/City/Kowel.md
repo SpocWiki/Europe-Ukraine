@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Kowel|Kowel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Kowel.public|Kowel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Kowel.internal|Kowel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Kowel.protect|Kowel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Kowel.private|Kowel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Kowel.personal|Kowel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Kowel.secret|Kowel.secret]] 
+
+### [Kowel.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.public.md) 
+
+### [Kowel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.internal.md) 
+
+### [Kowel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.protect.md) 
+
+### [Kowel.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.private.md) 
+
+### [Kowel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.personal.md) 
+
+### [Kowel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Volyn\CityKowel.secret.md)
+

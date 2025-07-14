@@ -40,11 +40,16 @@ markerFolder: ./Volyn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn|Volyn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.public|Volyn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.internal|Volyn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.protect|Volyn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.private|Volyn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.personal|Volyn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Volyn.secret|Volyn.secret]] 
+
+### [Volyn.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.public.md) 
+
+### [Volyn.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.internal.md) 
+
+### [Volyn.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.protect.md) 
+
+### [Volyn.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.private.md) 
+
+### [Volyn.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.personal.md) 
+
+### [Volyn.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineVolyn.secret.md)
 

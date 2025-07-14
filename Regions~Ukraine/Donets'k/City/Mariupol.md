@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Mariupol|Mariupol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.public|Mariupol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.internal|Mariupol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.protect|Mariupol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.private|Mariupol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.personal|Mariupol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Mariupol.secret|Mariupol.secret]] 
+
+### [Mariupol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.public.md) 
+
+### [Mariupol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.internal.md) 
+
+### [Mariupol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.protect.md) 
+
+### [Mariupol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.private.md) 
+
+### [Mariupol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.personal.md) 
+
+### [Mariupol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityMariupol.secret.md)
+

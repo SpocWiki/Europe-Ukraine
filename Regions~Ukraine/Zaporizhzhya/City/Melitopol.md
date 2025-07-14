@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Melitopol|Melitopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.public|Melitopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.internal|Melitopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.protect|Melitopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.private|Melitopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.personal|Melitopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Melitopol.secret|Melitopol.secret]] 
+
+### [Melitopol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.public.md) 
+
+### [Melitopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.internal.md) 
+
+### [Melitopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.protect.md) 
+
+### [Melitopol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.private.md) 
+
+### [Melitopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.personal.md) 
+
+### [Melitopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zaporizhzhya\CityMelitopol.secret.md)
+

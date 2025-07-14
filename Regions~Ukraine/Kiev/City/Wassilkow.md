@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow|Wassilkow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.public|Wassilkow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.internal|Wassilkow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.protect|Wassilkow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.private|Wassilkow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.personal|Wassilkow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Wassilkow.secret|Wassilkow.secret]] 
+
+### [Wassilkow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.public.md) 
+
+### [Wassilkow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.internal.md) 
+
+### [Wassilkow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.protect.md) 
+
+### [Wassilkow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.private.md) 
+
+### [Wassilkow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.personal.md) 
+
+### [Wassilkow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CityWassilkow.secret.md)
+

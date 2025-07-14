@@ -40,11 +40,16 @@ markerFolder: ./Ivano-Frankivs'k/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k|Ivano-Frankivs'k]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.public|Ivano-Frankivs'k.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.internal|Ivano-Frankivs'k.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.protect|Ivano-Frankivs'k.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.private|Ivano-Frankivs'k.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.personal|Ivano-Frankivs'k.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Ivano-Frankivs'k.secret|Ivano-Frankivs'k.secret]] 
+
+### [Ivano-Frankivs'k.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.public.md) 
+
+### [Ivano-Frankivs'k.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.internal.md) 
+
+### [Ivano-Frankivs'k.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.protect.md) 
+
+### [Ivano-Frankivs'k.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.private.md) 
+
+### [Ivano-Frankivs'k.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.personal.md) 
+
+### [Ivano-Frankivs'k.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineIvano-Frankivs'k.secret.md)
 

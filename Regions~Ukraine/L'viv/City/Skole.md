@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Skole|Skole]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Skole.public|Skole.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Skole.internal|Skole.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Skole.protect|Skole.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Skole.private|Skole.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Skole.personal|Skole.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Skole.secret|Skole.secret]] 
+
+### [Skole.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.public.md) 
+
+### [Skole.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.internal.md) 
+
+### [Skole.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.protect.md) 
+
+### [Skole.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.private.md) 
+
+### [Skole.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.personal.md) 
+
+### [Skole.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySkole.secret.md)
+

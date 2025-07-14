@@ -40,11 +40,16 @@ markerFolder: ./Mykolayiv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv|Mykolayiv]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.public|Mykolayiv.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.internal|Mykolayiv.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.protect|Mykolayiv.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.private|Mykolayiv.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.personal|Mykolayiv.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Mykolayiv.secret|Mykolayiv.secret]] 
+
+### [Mykolayiv.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.public.md) 
+
+### [Mykolayiv.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.internal.md) 
+
+### [Mykolayiv.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.protect.md) 
+
+### [Mykolayiv.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.private.md) 
+
+### [Mykolayiv.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.personal.md) 
+
+### [Mykolayiv.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineMykolayiv.secret.md)
 

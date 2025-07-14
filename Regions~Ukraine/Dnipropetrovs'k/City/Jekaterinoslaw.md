@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw|Jekaterinoslaw]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.public|Jekaterinoslaw.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.internal|Jekaterinoslaw.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.protect|Jekaterinoslaw.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.private|Jekaterinoslaw.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.personal|Jekaterinoslaw.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Jekaterinoslaw.secret|Jekaterinoslaw.secret]] 
+
+### [Jekaterinoslaw.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.public.md) 
+
+### [Jekaterinoslaw.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.internal.md) 
+
+### [Jekaterinoslaw.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.protect.md) 
+
+### [Jekaterinoslaw.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.private.md) 
+
+### [Jekaterinoslaw.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.personal.md) 
+
+### [Jekaterinoslaw.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityJekaterinoslaw.secret.md)
+

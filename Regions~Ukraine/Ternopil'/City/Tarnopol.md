@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol|Tarnopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.public|Tarnopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.internal|Tarnopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.protect|Tarnopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.private|Tarnopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.personal|Tarnopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tarnopol.secret|Tarnopol.secret]] 
+
+### [Tarnopol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.public.md) 
+
+### [Tarnopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.internal.md) 
+
+### [Tarnopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.protect.md) 
+
+### [Tarnopol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.private.md) 
+
+### [Tarnopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.personal.md) 
+
+### [Tarnopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityTarnopol.secret.md)
+

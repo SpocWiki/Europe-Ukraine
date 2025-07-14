@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij|Kamenetz-Podolskij]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.public|Kamenetz-Podolskij.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.internal|Kamenetz-Podolskij.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.protect|Kamenetz-Podolskij.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.private|Kamenetz-Podolskij.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.personal|Kamenetz-Podolskij.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kamenetz-Podolskij.secret|Kamenetz-Podolskij.secret]] 
+
+### [Kamenetz-Podolskij.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.public.md) 
+
+### [Kamenetz-Podolskij.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.internal.md) 
+
+### [Kamenetz-Podolskij.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.protect.md) 
+
+### [Kamenetz-Podolskij.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.private.md) 
+
+### [Kamenetz-Podolskij.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.personal.md) 
+
+### [Kamenetz-Podolskij.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityKamenetz-Podolskij.secret.md)
+

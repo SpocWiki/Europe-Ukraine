@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Valki|Valki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Valki.public|Valki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Valki.internal|Valki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Valki.protect|Valki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Valki.private|Valki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Valki.personal|Valki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Valki.secret|Valki.secret]] 
+
+### [Valki.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.public.md) 
+
+### [Valki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.internal.md) 
+
+### [Valki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.protect.md) 
+
+### [Valki.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.private.md) 
+
+### [Valki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.personal.md) 
+
+### [Valki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityValki.secret.md)
+

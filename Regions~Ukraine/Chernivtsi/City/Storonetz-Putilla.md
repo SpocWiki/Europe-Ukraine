@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla|Storonetz-Putilla]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.public|Storonetz-Putilla.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.internal|Storonetz-Putilla.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.protect|Storonetz-Putilla.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.private|Storonetz-Putilla.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.personal|Storonetz-Putilla.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Storonetz-Putilla.secret|Storonetz-Putilla.secret]] 
+
+### [Storonetz-Putilla.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.public.md) 
+
+### [Storonetz-Putilla.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.internal.md) 
+
+### [Storonetz-Putilla.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.protect.md) 
+
+### [Storonetz-Putilla.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.private.md) 
+
+### [Storonetz-Putilla.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.personal.md) 
+
+### [Storonetz-Putilla.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityStoronetz-Putilla.secret.md)
+

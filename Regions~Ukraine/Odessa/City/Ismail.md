@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Ismail|Ismail]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Ismail.public|Ismail.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Ismail.internal|Ismail.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Ismail.protect|Ismail.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Ismail.private|Ismail.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Ismail.personal|Ismail.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Ismail.secret|Ismail.secret]] 
+
+### [Ismail.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.public.md) 
+
+### [Ismail.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.internal.md) 
+
+### [Ismail.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.protect.md) 
+
+### [Ismail.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.private.md) 
+
+### [Ismail.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.personal.md) 
+
+### [Ismail.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityIsmail.secret.md)
+

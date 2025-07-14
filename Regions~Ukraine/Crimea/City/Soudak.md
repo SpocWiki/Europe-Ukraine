@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Soudak|Soudak]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Soudak.public|Soudak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Soudak.internal|Soudak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Soudak.protect|Soudak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Soudak.private|Soudak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Soudak.personal|Soudak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Soudak.secret|Soudak.secret]] 
+
+### [Soudak.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.public.md) 
+
+### [Soudak.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.internal.md) 
+
+### [Soudak.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.protect.md) 
+
+### [Soudak.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.private.md) 
+
+### [Soudak.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.personal.md) 
+
+### [Soudak.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySoudak.secret.md)
+

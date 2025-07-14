@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof|Tschernigof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.public|Tschernigof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.internal|Tschernigof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.protect|Tschernigof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.private|Tschernigof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.personal|Tschernigof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tschernigof.secret|Tschernigof.secret]] 
+
+### [Tschernigof.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.public.md) 
+
+### [Tschernigof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.internal.md) 
+
+### [Tschernigof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.protect.md) 
+
+### [Tschernigof.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.private.md) 
+
+### [Tschernigof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.personal.md) 
+
+### [Tschernigof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityTschernigof.secret.md)
+

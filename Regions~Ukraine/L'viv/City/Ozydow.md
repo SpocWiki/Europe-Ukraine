@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Ozydow|Ozydow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.public|Ozydow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.internal|Ozydow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.protect|Ozydow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.private|Ozydow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.personal|Ozydow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Ozydow.secret|Ozydow.secret]] 
+
+### [Ozydow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.public.md) 
+
+### [Ozydow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.internal.md) 
+
+### [Ozydow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.protect.md) 
+
+### [Ozydow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.private.md) 
+
+### [Ozydow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.personal.md) 
+
+### [Ozydow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityOzydow.secret.md)
+

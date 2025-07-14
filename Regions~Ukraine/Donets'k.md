@@ -40,11 +40,16 @@ markerFolder: ./Donets'k/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k|Donets'k]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.public|Donets'k.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.internal|Donets'k.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.protect|Donets'k.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.private|Donets'k.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.personal|Donets'k.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Donets'k.secret|Donets'k.secret]] 
+
+### [Donets'k.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.public.md) 
+
+### [Donets'k.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.internal.md) 
+
+### [Donets'k.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.protect.md) 
+
+### [Donets'k.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.private.md) 
+
+### [Donets'k.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.personal.md) 
+
+### [Donets'k.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineDonets'k.secret.md)
 

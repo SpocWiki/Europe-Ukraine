@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Korosten|Korosten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Korosten.public|Korosten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Korosten.internal|Korosten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Korosten.protect|Korosten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Korosten.private|Korosten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Korosten.personal|Korosten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Korosten.secret|Korosten.secret]] 
+
+### [Korosten.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.public.md) 
+
+### [Korosten.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.internal.md) 
+
+### [Korosten.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.protect.md) 
+
+### [Korosten.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.private.md) 
+
+### [Korosten.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.personal.md) 
+
+### [Korosten.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityKorosten.secret.md)
+

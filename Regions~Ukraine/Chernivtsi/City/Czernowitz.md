@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz|Czernowitz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.public|Czernowitz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.internal|Czernowitz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.protect|Czernowitz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.private|Czernowitz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.personal|Czernowitz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Czernowitz.secret|Czernowitz.secret]] 
+
+### [Czernowitz.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.public.md) 
+
+### [Czernowitz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.internal.md) 
+
+### [Czernowitz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.protect.md) 
+
+### [Czernowitz.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.private.md) 
+
+### [Czernowitz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.personal.md) 
+
+### [Czernowitz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernivtsi\CityCzernowitz.secret.md)
+

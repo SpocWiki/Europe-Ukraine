@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk|Woltschansk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.public|Woltschansk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.internal|Woltschansk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.protect|Woltschansk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.private|Woltschansk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.personal|Woltschansk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Woltschansk.secret|Woltschansk.secret]] 
+
+### [Woltschansk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.public.md) 
+
+### [Woltschansk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.internal.md) 
+
+### [Woltschansk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.protect.md) 
+
+### [Woltschansk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.private.md) 
+
+### [Woltschansk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.personal.md) 
+
+### [Woltschansk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kharkiv\CityWoltschansk.secret.md)
+

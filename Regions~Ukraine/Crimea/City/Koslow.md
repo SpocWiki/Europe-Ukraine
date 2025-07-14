@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Koslow|Koslow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Koslow.public|Koslow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Koslow.internal|Koslow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Koslow.protect|Koslow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Koslow.private|Koslow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Koslow.personal|Koslow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Koslow.secret|Koslow.secret]] 
+
+### [Koslow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.public.md) 
+
+### [Koslow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.internal.md) 
+
+### [Koslow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.protect.md) 
+
+### [Koslow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.private.md) 
+
+### [Koslow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.personal.md) 
+
+### [Koslow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKoslow.secret.md)
+

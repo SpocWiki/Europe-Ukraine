@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Sambor|Sambor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Sambor.public|Sambor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Sambor.internal|Sambor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Sambor.protect|Sambor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Sambor.private|Sambor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Sambor.personal|Sambor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Sambor.secret|Sambor.secret]] 
+
+### [Sambor.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.public.md) 
+
+### [Sambor.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.internal.md) 
+
+### [Sambor.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.protect.md) 
+
+### [Sambor.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.private.md) 
+
+### [Sambor.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.personal.md) 
+
+### [Sambor.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CitySambor.secret.md)
+

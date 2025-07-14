@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Shitomir|Shitomir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.public|Shitomir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.internal|Shitomir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.protect|Shitomir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.private|Shitomir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.personal|Shitomir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Shitomir.secret|Shitomir.secret]] 
+
+### [Shitomir.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.public.md) 
+
+### [Shitomir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.internal.md) 
+
+### [Shitomir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.protect.md) 
+
+### [Shitomir.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.private.md) 
+
+### [Shitomir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.personal.md) 
+
+### [Shitomir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Zhytomyr\CityShitomir.secret.md)
+

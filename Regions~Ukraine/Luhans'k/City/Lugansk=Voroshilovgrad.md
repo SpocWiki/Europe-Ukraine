@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad|Lugansk=Voroshilovgrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.public|Lugansk=Voroshilovgrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.internal|Lugansk=Voroshilovgrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.protect|Lugansk=Voroshilovgrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.private|Lugansk=Voroshilovgrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.personal|Lugansk=Voroshilovgrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Lugansk=Voroshilovgrad.secret|Lugansk=Voroshilovgrad.secret]] 
+
+### [Lugansk=Voroshilovgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.public.md) 
+
+### [Lugansk=Voroshilovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.internal.md) 
+
+### [Lugansk=Voroshilovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.protect.md) 
+
+### [Lugansk=Voroshilovgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.private.md) 
+
+### [Lugansk=Voroshilovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.personal.md) 
+
+### [Lugansk=Voroshilovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Luhans'k\CityLugansk=Voroshilovgrad.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria|Eupatoria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.public|Eupatoria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.internal|Eupatoria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.protect|Eupatoria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.private|Eupatoria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.personal|Eupatoria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Eupatoria.secret|Eupatoria.secret]] 
+
+### [Eupatoria.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.public.md) 
+
+### [Eupatoria.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.internal.md) 
+
+### [Eupatoria.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.protect.md) 
+
+### [Eupatoria.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.private.md) 
+
+### [Eupatoria.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.personal.md) 
+
+### [Eupatoria.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityEupatoria.secret.md)
+

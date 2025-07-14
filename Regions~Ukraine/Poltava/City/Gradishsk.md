@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk|Gradishsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.public|Gradishsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.internal|Gradishsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.protect|Gradishsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.private|Gradishsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.personal|Gradishsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Gradishsk.secret|Gradishsk.secret]] 
+
+### [Gradishsk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.public.md) 
+
+### [Gradishsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.internal.md) 
+
+### [Gradishsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.protect.md) 
+
+### [Gradishsk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.private.md) 
+
+### [Gradishsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.personal.md) 
+
+### [Gradishsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityGradishsk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Lemberg|Lemberg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.public|Lemberg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.internal|Lemberg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.protect|Lemberg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.private|Lemberg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.personal|Lemberg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Lemberg.secret|Lemberg.secret]] 
+
+### [Lemberg.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.public.md) 
+
+### [Lemberg.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.internal.md) 
+
+### [Lemberg.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.protect.md) 
+
+### [Lemberg.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.private.md) 
+
+### [Lemberg.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.personal.md) 
+
+### [Lemberg.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityLemberg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska|Rawa_Ruska]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.public|Rawa_Ruska.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.internal|Rawa_Ruska.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.protect|Rawa_Ruska.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.private|Rawa_Ruska.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.personal|Rawa_Ruska.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Rawa_Ruska.secret|Rawa_Ruska.secret]] 
+
+### [Rawa_Ruska.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.public.md) 
+
+### [Rawa_Ruska.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.internal.md) 
+
+### [Rawa_Ruska.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.protect.md) 
+
+### [Rawa_Ruska.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.private.md) 
+
+### [Rawa_Ruska.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.personal.md) 
+
+### [Rawa_Ruska.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityRawa_Ruska.secret.md)
+

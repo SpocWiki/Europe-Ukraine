@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd|Kirovograd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.public|Kirovograd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.internal|Kirovograd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.protect|Kirovograd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.private|Kirovograd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.personal|Kirovograd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kirovograd.secret|Kirovograd.secret]] 
+
+### [Kirovograd.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.public.md) 
+
+### [Kirovograd.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.internal.md) 
+
+### [Kirovograd.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.protect.md) 
+
+### [Kirovograd.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.private.md) 
+
+### [Kirovograd.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.personal.md) 
+
+### [Kirovograd.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kirovohrad\CityKirovograd.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka|Shepetovka]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.public|Shepetovka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.internal|Shepetovka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.protect|Shepetovka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.private|Shepetovka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.personal|Shepetovka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Shepetovka.secret|Shepetovka.secret]] 
+
+### [Shepetovka.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.public.md) 
+
+### [Shepetovka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.internal.md) 
+
+### [Shepetovka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.protect.md) 
+
+### [Shepetovka.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.private.md) 
+
+### [Shepetovka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.personal.md) 
+
+### [Shepetovka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Khmel'nyts'kyy\CityShepetovka.secret.md)
+

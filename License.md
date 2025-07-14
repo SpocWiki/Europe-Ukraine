@@ -112,11 +112,16 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]] 
+
+### [License.public](/_public/\Earth\Continent\Europe\Europe~East\UkraineLicense.public.md) 
+
+### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\UkraineLicense.internal.md) 
+
+### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\UkraineLicense.protect.md) 
+
+### [License.private](/_private/\Earth\Continent\Europe\Europe~East\UkraineLicense.private.md) 
+
+### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\UkraineLicense.personal.md) 
+
+### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\UkraineLicense.secret.md)
 

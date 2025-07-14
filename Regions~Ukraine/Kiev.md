@@ -40,11 +40,16 @@ markerFolder: ./Kiev/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev|Kiev]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.public|Kiev.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.internal|Kiev.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.protect|Kiev.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.private|Kiev.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.personal|Kiev.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Kiev.secret|Kiev.secret]] 
+
+### [Kiev.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.public.md) 
+
+### [Kiev.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.internal.md) 
+
+### [Kiev.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.protect.md) 
+
+### [Kiev.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.private.md) 
+
+### [Kiev.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.personal.md) 
+
+### [Kiev.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineKiev.secret.md)
 

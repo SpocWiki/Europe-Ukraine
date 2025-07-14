@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz|Beregszasz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.public|Beregszasz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.internal|Beregszasz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.protect|Beregszasz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.private|Beregszasz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.personal|Beregszasz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Beregszasz.secret|Beregszasz.secret]] 
+
+### [Beregszasz.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.public.md) 
+
+### [Beregszasz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.internal.md) 
+
+### [Beregszasz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.protect.md) 
+
+### [Beregszasz.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.private.md) 
+
+### [Beregszasz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.personal.md) 
+
+### [Beregszasz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityBeregszasz.secret.md)
+

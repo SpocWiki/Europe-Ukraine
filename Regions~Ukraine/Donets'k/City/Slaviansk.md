@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk|Slaviansk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.public|Slaviansk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.internal|Slaviansk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.protect|Slaviansk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.private|Slaviansk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.personal|Slaviansk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Slaviansk.secret|Slaviansk.secret]] 
+
+### [Slaviansk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.public.md) 
+
+### [Slaviansk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.internal.md) 
+
+### [Slaviansk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.protect.md) 
+
+### [Slaviansk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.private.md) 
+
+### [Slaviansk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.personal.md) 
+
+### [Slaviansk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CitySlaviansk.secret.md)
+

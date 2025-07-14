@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sumy|Sumy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sumy.public|Sumy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sumy.internal|Sumy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sumy.protect|Sumy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sumy.private|Sumy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sumy.personal|Sumy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sumy.secret|Sumy.secret]] 
+
+### [Sumy.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.public.md) 
+
+### [Sumy.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.internal.md) 
+
+### [Sumy.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.protect.md) 
+
+### [Sumy.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.private.md) 
+
+### [Sumy.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.personal.md) 
+
+### [Sumy.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Sumy\CitySumy.secret.md)
+

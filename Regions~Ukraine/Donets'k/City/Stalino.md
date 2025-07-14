@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stalino|Stalino]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stalino.public|Stalino.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stalino.internal|Stalino.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stalino.protect|Stalino.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stalino.private|Stalino.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stalino.personal|Stalino.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stalino.secret|Stalino.secret]] 
+
+### [Stalino.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.public.md) 
+
+### [Stalino.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.internal.md) 
+
+### [Stalino.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.protect.md) 
+
+### [Stalino.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.private.md) 
+
+### [Stalino.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.personal.md) 
+
+### [Stalino.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Donets'k\CityStalino.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz|Drogobycz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.public|Drogobycz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.internal|Drogobycz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.protect|Drogobycz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.private|Drogobycz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.personal|Drogobycz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Drogobycz.secret|Drogobycz.secret]] 
+
+### [Drogobycz.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.public.md) 
+
+### [Drogobycz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.internal.md) 
+
+### [Drogobycz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.protect.md) 
+
+### [Drogobycz.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.private.md) 
+
+### [Drogobycz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.personal.md) 
+
+### [Drogobycz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityDrogobycz.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Krementschug|Krementschug]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.public|Krementschug.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.internal|Krementschug.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.protect|Krementschug.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.private|Krementschug.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.personal|Krementschug.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Krementschug.secret|Krementschug.secret]] 
+
+### [Krementschug.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.public.md) 
+
+### [Krementschug.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.internal.md) 
+
+### [Krementschug.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.protect.md) 
+
+### [Krementschug.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.private.md) 
+
+### [Krementschug.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.personal.md) 
+
+### [Krementschug.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityKrementschug.secret.md)
+

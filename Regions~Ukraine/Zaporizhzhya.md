@@ -40,11 +40,16 @@ markerFolder: ./Zaporizhzhya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya|Zaporizhzhya]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.public|Zaporizhzhya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.internal|Zaporizhzhya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.protect|Zaporizhzhya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.private|Zaporizhzhya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.personal|Zaporizhzhya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Ukraine/Counties/Zaporizhzhya.secret|Zaporizhzhya.secret]] 
+
+### [Zaporizhzhya.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.public.md) 
+
+### [Zaporizhzhya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.internal.md) 
+
+### [Zaporizhzhya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.protect.md) 
+
+### [Zaporizhzhya.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.private.md) 
+
+### [Zaporizhzhya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.personal.md) 
+
+### [Zaporizhzhya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~UkraineZaporizhzhya.secret.md)
 

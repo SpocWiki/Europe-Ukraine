@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Zienkow|Zienkow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.public|Zienkow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.internal|Zienkow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.protect|Zienkow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.private|Zienkow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.personal|Zienkow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Zienkow.secret|Zienkow.secret]] 
+
+### [Zienkow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.public.md) 
+
+### [Zienkow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.internal.md) 
+
+### [Zienkow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.protect.md) 
+
+### [Zienkow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.private.md) 
+
+### [Zienkow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.personal.md) 
+
+### [Zienkow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Poltava\CityZienkow.secret.md)
+

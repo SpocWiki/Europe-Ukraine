@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Chermigov|Chermigov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.public|Chermigov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.internal|Chermigov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.protect|Chermigov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.private|Chermigov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.personal|Chermigov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Chermigov.secret|Chermigov.secret]] 
+
+### [Chermigov.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.public.md) 
+
+### [Chermigov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.internal.md) 
+
+### [Chermigov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.protect.md) 
+
+### [Chermigov.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.private.md) 
+
+### [Chermigov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.personal.md) 
+
+### [Chermigov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Chernihiv\CityChermigov.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki|Zaleszczyki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.public|Zaleszczyki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.internal|Zaleszczyki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.protect|Zaleszczyki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.private|Zaleszczyki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.personal|Zaleszczyki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Zaleszczyki.secret|Zaleszczyki.secret]] 
+
+### [Zaleszczyki.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.public.md) 
+
+### [Zaleszczyki.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.internal.md) 
+
+### [Zaleszczyki.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.protect.md) 
+
+### [Zaleszczyki.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.private.md) 
+
+### [Zaleszczyki.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.personal.md) 
+
+### [Zaleszczyki.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ternopil'\CityZaleszczyki.secret.md)
+

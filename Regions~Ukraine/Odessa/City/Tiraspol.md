@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol|Tiraspol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.public|Tiraspol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.internal|Tiraspol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.protect|Tiraspol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.private|Tiraspol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.personal|Tiraspol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Tiraspol.secret|Tiraspol.secret]] 
+
+### [Tiraspol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.public.md) 
+
+### [Tiraspol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.internal.md) 
+
+### [Tiraspol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.protect.md) 
+
+### [Tiraspol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.private.md) 
+
+### [Tiraspol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.personal.md) 
+
+### [Tiraspol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Odessa\CityTiraspol.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nikopol|Nikopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.public|Nikopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.internal|Nikopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.protect|Nikopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.private|Nikopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.personal|Nikopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nikopol.secret|Nikopol.secret]] 
+
+### [Nikopol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.public.md) 
+
+### [Nikopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.internal.md) 
+
+### [Nikopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.protect.md) 
+
+### [Nikopol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.private.md) 
+
+### [Nikopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.personal.md) 
+
+### [Nikopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityNikopol.secret.md)
+

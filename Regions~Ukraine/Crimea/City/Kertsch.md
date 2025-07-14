@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Kertsch|Kertsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.public|Kertsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.internal|Kertsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.protect|Kertsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.private|Kertsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.personal|Kertsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Kertsch.secret|Kertsch.secret]] 
+
+### [Kertsch.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.public.md) 
+
+### [Kertsch.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.internal.md) 
+
+### [Kertsch.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.protect.md) 
+
+### [Kertsch.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.private.md) 
+
+### [Kertsch.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.personal.md) 
+
+### [Kertsch.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CityKertsch.secret.md)
+

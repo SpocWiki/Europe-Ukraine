@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Simferopol|Simferopol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.public|Simferopol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.internal|Simferopol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.protect|Simferopol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.private|Simferopol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.personal|Simferopol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Simferopol.secret|Simferopol.secret]] 
+
+### [Simferopol.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.public.md) 
+
+### [Simferopol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.internal.md) 
+
+### [Simferopol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.protect.md) 
+
+### [Simferopol.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.private.md) 
+
+### [Simferopol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.personal.md) 
+
+### [Simferopol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Crimea\CitySimferopol.secret.md)
+

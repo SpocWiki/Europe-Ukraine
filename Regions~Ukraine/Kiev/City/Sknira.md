@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Sknira|Sknira]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Sknira.public|Sknira.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Sknira.internal|Sknira.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Sknira.protect|Sknira.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Sknira.private|Sknira.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Sknira.personal|Sknira.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Sknira.secret|Sknira.secret]] 
+
+### [Sknira.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.public.md) 
+
+### [Sknira.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.internal.md) 
+
+### [Sknira.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.protect.md) 
+
+### [Sknira.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.private.md) 
+
+### [Sknira.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.personal.md) 
+
+### [Sknira.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Kiev\CitySknira.secret.md)
+

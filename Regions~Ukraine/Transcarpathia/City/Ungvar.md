@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar|Ungvar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.public|Ungvar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.internal|Ungvar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.protect|Ungvar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.private|Ungvar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.personal|Ungvar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Hungary/City/Ungvar.secret|Ungvar.secret]] 
+
+### [Ungvar.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.public.md) 
+
+### [Ungvar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.internal.md) 
+
+### [Ungvar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.protect.md) 
+
+### [Ungvar.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.private.md) 
+
+### [Ungvar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.personal.md) 
+
+### [Ungvar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Transcarpathia\CityUngvar.secret.md)
+

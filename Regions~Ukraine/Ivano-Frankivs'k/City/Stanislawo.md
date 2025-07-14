@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo|Stanislawo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.public|Stanislawo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.internal|Stanislawo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.protect|Stanislawo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.private|Stanislawo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.personal|Stanislawo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Stanislawo.secret|Stanislawo.secret]] 
+
+### [Stanislawo.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.public.md) 
+
+### [Stanislawo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.internal.md) 
+
+### [Stanislawo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.protect.md) 
+
+### [Stanislawo.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.private.md) 
+
+### [Stanislawo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.personal.md) 
+
+### [Stanislawo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Ivano-Frankivs'k\CityStanislawo.secret.md)
+

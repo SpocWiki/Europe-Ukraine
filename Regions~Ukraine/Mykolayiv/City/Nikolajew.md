@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew|Nikolajew]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.public|Nikolajew.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.internal|Nikolajew.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.protect|Nikolajew.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.private|Nikolajew.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.personal|Nikolajew.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Nikolajew.secret|Nikolajew.secret]] 
+
+### [Nikolajew.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.public.md) 
+
+### [Nikolajew.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.internal.md) 
+
+### [Nikolajew.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.protect.md) 
+
+### [Nikolajew.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.private.md) 
+
+### [Nikolajew.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.personal.md) 
+
+### [Nikolajew.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Mykolayiv\CityNikolajew.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow|Koniuskow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.public|Koniuskow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.internal|Koniuskow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.protect|Koniuskow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.private|Koniuskow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.personal|Koniuskow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Koniuskow.secret|Koniuskow.secret]] 
+
+### [Koniuskow.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.public.md) 
+
+### [Koniuskow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.internal.md) 
+
+### [Koniuskow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.protect.md) 
+
+### [Koniuskow.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.private.md) 
+
+### [Koniuskow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.personal.md) 
+
+### [Koniuskow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\L'viv\CityKoniuskow.secret.md)
+

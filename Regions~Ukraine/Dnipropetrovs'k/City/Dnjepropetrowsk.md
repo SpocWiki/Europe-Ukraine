@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk|Dnjepropetrowsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.public|Dnjepropetrowsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.internal|Dnjepropetrowsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.protect|Dnjepropetrowsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.private|Dnjepropetrowsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.personal|Dnjepropetrowsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Dnjepropetrowsk.secret|Dnjepropetrowsk.secret]] 
+
+### [Dnjepropetrowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.public.md) 
+
+### [Dnjepropetrowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.internal.md) 
+
+### [Dnjepropetrowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.protect.md) 
+
+### [Dnjepropetrowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.private.md) 
+
+### [Dnjepropetrowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.personal.md) 
+
+### [Dnjepropetrowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Ukraine\Regions~Ukraine\Dnipropetrovs'k\CityDnjepropetrowsk.secret.md)
+
