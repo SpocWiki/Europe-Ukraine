@@ -1,30 +1,29 @@
 ---
-location: [ 49.5 , 26.9 ] 
+location:
+  - 49.5
+  - 26.9
 type: geo-Region
 title: Khmel'nyts'kyy
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Khmel'nyts'kyy
-
+  - Khmel'nyts'kyy
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Khmel'nyts'kyy
