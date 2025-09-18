@@ -111,7 +111,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20picture%20
 ```leaflet
 id: Crimea
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Crimea/
 markerFolder: ./Crimea/

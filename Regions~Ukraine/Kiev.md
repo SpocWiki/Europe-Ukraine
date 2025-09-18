@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kiev
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kiev/
 markerFolder: ./Kiev/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Dnipropetrovs'k
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dnipropetrovs'k/
 markerFolder: ./Dnipropetrovs'k/

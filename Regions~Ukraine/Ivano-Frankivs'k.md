@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ivano-Frankivs'k
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ivano-Frankivs'k/
 markerFolder: ./Ivano-Frankivs'k/

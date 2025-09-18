@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Chernihiv
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Chernihiv/
 markerFolder: ./Chernihiv/

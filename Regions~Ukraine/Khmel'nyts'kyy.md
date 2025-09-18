@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Khmel'nyts'kyy
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Khmel'nyts'kyy/
 markerFolder: ./Khmel'nyts'kyy/
