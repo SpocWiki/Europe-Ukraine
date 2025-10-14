@@ -22,7 +22,7 @@ State ::
 Country :: [[Ukraine]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

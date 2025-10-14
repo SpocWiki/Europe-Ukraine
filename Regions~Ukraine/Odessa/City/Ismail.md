@@ -21,7 +21,7 @@ State ::
 Country :: [[Romania]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
