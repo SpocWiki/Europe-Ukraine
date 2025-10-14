@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q165058
-location: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+locations: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
 instance_of:
   - "[[_Standards/WikiData/WD~famine,168247]]"
   - "[[_Standards/WikiData/WD~mass_killings_under_communist_regimes,2235125]]"
