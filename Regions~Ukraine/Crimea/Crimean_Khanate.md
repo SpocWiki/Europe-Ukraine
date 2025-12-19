@@ -16,7 +16,7 @@ basic_form_of_government:
   - "[[_Standards/WikiData/WD~elective_monarchy,584683]]"
   - "[[_Standards/WikiData/WD~aristocratic_monarchy,4429472]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 language_used:
   - "[[_Standards/WikiData/WD~Turki,1763658]]"

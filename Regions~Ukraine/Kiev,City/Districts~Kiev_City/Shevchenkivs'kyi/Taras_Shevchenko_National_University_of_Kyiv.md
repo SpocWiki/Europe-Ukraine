@@ -6,7 +6,9 @@ aliases:
   - Київський національний університет імені Тараса Шевченка
   - Kyivskyi natsionalnyi universytet imeni Tarasa Shevchenka
 has_id_wikidata: Q84151
-location: [ 50.441903, 30.511314]
+location:
+  - 50.441903
+  - 30.511314
 coordinate_location: Point(30.511314 50.441903)
 inception: 1834-01-01T00:00:00Z
 EU_VAT_number: UA020709426654
@@ -34,7 +36,7 @@ member_of:
   - "[[_Standards/WikiData/WD~Magna_Charta_Universitatum,6731239]]"
   - "[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
