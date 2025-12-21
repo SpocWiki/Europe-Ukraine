@@ -17,62 +17,62 @@ SpocWebEntityId: 33062
 isDeleted: false
 confidential: public
 award_received:
-  - "[[_Standards/WikiData/WD~Hero_City_of_the_Soviet_Union,159438]]"
-  - "[[_Standards/WikiData/WD~Hero_City_of_Ukraine,111141281]]"
+  - '[[_Standards/WikiData/WD~Hero_City_of_the_Soviet_Union,159438]]'
+  - '[[_Standards/WikiData/WD~Hero_City_of_Ukraine,111141281]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Odesa_Oblast,171852]]"
-  - "[[_Standards/WikiData/WD~Odesa_Raion,103755776]]"
-  - "[[_Standards/WikiData/WD~Odesa_Urban_Hromada,105822583]]"
+  - '[[_Standards/WikiData/WD~Odesa_Oblast,171852]]'
+  - '[[_Standards/WikiData/WD~Odesa_Raion,103755776]]'
+  - '[[_Standards/WikiData/WD~Odesa_Urban_Hromada,105822583]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
-different_from: "[[_Standards/WikiData/WD~Odessa,225741]]"
+  - '[[_Standards/WikiData/WD~Eastern_European_Time,190252]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+different_from: '[[_Standards/WikiData/WD~Odessa,225741]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Odesa,1988140]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Odesa,2393002]]"
-replaces: "[[_Standards/WikiData/WD~Khadjibey,2511180]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Odesa,4204683]]"
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+  - '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Odesa,1988140]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Gulf_of_Odesa,2393002]]'
+replaces: '[[_Standards/WikiData/WD~Khadjibey,2511180]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Odesa,4204683]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Kyivskyi_Raion,4220231]]"
-  - "[[_Standards/WikiData/WD~Khadzhybeiskyi_Raion,4277948]]"
-  - "[[_Standards/WikiData/WD~Prymorskyi_Raion,4378731]]"
-  - "[[_Standards/WikiData/WD~Peresypskyi_Raion,4445200]]"
+  - '[[_Standards/WikiData/WD~Kyivskyi_Raion,4220231]]'
+  - '[[_Standards/WikiData/WD~Khadzhybeiskyi_Raion,4277948]]'
+  - '[[_Standards/WikiData/WD~Prymorskyi_Raion,4378731]]'
+  - '[[_Standards/WikiData/WD~Peresypskyi_Raion,4445200]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Kryzhanivka,4242689]]"
-  - "[[_Standards/WikiData/WD~Lymanka,4292905]]"
-part_of: "[[_Standards/WikiData/WD~Odesa_Agglomeration,4331397]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Odesa,4487278]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Odesa,11304456]]"
-named_after: "[[_Standards/WikiData/WD~Odessos,11796095]]"
-instance_of: "[[_Standards/WikiData/WD~city_in_Ukraine,12131624]]"
-head_of_government: "[[_Standards/WikiData/WD~Hennadiy_Trukhanov,12162684]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Odesa_Oblast,17679569]]"
-economy_of_topic: "[[_Standards/WikiData/WD~Economy_of_Odesa,100866503]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Odesa_Urban_Hromada,105822583]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Odesa,109296753]]"
+  - '[[_Standards/WikiData/WD~Kryzhanivka,4242689]]'
+  - '[[_Standards/WikiData/WD~Lymanka,4292905]]'
+part_of: '[[_Standards/WikiData/WD~Odesa_Agglomeration,4331397]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Odesa,4487278]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Odesa,11304456]]'
+named_after: '[[_Standards/WikiData/WD~Odessos,11796095]]'
+instance_of: '[[_Standards/WikiData/WD~city_in_Ukraine,12131624]]'
+head_of_government: '[[_Standards/WikiData/WD~Hennadiy_Trukhanov,12162684]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Odesa_Oblast,17679569]]'
+economy_of_topic: '[[_Standards/WikiData/WD~Economy_of_Odesa,100866503]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Odesa_Urban_Hromada,105822583]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor_of_Odesa,109296753]]'
 coordinate_location: Point(30.73262 46.47747)
-twinned_administrative_body: "[[_Standards/WikiData/WD~Tbilisi,994]]"
+twinned_administrative_body: '[[_Standards/WikiData/WD~Tbilisi,994]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Romanian,7913]]"
-  - "[[_Standards/WikiData/WD~Bulgarian,7918]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Romanian,7913]]'
+  - '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 elevation_above_sea_level: 40
 area: 236.9
 licence_plate_code:
@@ -80,7 +80,7 @@ licence_plate_code:
   - НН / 16
 subreddit: odesa
 population: 1010537
-local_dialing_code: "048"
+local_dialing_code: 048
 BHCL_UUID:
   - 9abf021c-b59a-41da-8bdb-f2bd4b2ff392
   - 33f3d0e1-4509-45f4-9c95-0102d1958f75
@@ -106,7 +106,7 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Odesa%20logo.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Odessa%20banner%20Primorskiy%20bulvar.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Opera-Theater-aerial-2.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/UKR%20Odessa%20map.svg
-U_S_National_Archives_Identifier: "10045642"
+U_S_National_Archives_Identifier: 10045642
 postal_code: 65000–65480
 Commons_category: Odesa
 Commons_gallery: Одеса

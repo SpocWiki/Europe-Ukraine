@@ -1,16 +1,19 @@
 ---
-location: [45.35,36.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kertsch
+location:
+  - 45.35
+  - 36.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31395
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

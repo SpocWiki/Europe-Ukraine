@@ -1,16 +1,19 @@
 ---
-location: [49.68,36.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Zmief
+location:
+  - 49.68
+  - 36.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35843
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

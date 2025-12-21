@@ -1,16 +1,19 @@
 ---
-location: [50.2,27.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Shepetovka
+location:
+  - 50.2
+  - 27.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34230
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

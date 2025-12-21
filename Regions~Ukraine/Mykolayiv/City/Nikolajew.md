@@ -1,16 +1,19 @@
 ---
-location: [46.97,31.97] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nikolajew
+location:
+  - 46.97
+  - 31.97
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32917
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

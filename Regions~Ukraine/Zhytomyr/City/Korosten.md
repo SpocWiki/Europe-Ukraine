@@ -1,16 +1,19 @@
 ---
-location: [50.95,28.6] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Korosten
+location:
+  - 50.95
+  - 28.6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31579
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

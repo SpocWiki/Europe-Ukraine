@@ -22,82 +22,82 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Debrecen,79880]]"
-  - "[[_Standards/WikiData/WD~Daugavpils,80021]]"
-  - "[[_Standards/WikiData/WD~Gaziantep,93338]]"
-  - "[[_Standards/WikiData/WD~Kutaisi,172415]]"
-  - "[[_Standards/WikiData/WD~Cetinje,173338]]"
-  - "[[_Standards/WikiData/WD~Rishon_LeZion,201051]]"
-  - "[[_Standards/WikiData/WD~Kaunas,4115712]]"
-  - "[[_Standards/WikiData/WD~Poznań,268]]"
-  - "[[_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[_Standards/WikiData/WD~Maribor,1010]]"
-  - "[[_Standards/WikiData/WD~Nuremberg,2090]]"
-  - "[[_Standards/WikiData/WD~Brno,14960]]"
-  - "[[_Standards/WikiData/WD~Tirana,19689]]"
-  - "[[_Standards/WikiData/WD~Daejeon,20921]]"
-  - "[[_Standards/WikiData/WD~Lublin,37333]]"
-  - "[[_Standards/WikiData/WD~Cincinnati,43196]]"
+  - '[[_Standards/WikiData/WD~Debrecen,79880]]'
+  - '[[_Standards/WikiData/WD~Daugavpils,80021]]'
+  - '[[_Standards/WikiData/WD~Gaziantep,93338]]'
+  - '[[_Standards/WikiData/WD~Kutaisi,172415]]'
+  - '[[_Standards/WikiData/WD~Cetinje,173338]]'
+  - '[[_Standards/WikiData/WD~Rishon_LeZion,201051]]'
+  - '[[_Standards/WikiData/WD~Kaunas,4115712]]'
+  - '[[_Standards/WikiData/WD~Poznań,268]]'
+  - '[[_Standards/WikiData/WD~Tbilisi,994]]'
+  - '[[_Standards/WikiData/WD~Maribor,1010]]'
+  - '[[_Standards/WikiData/WD~Nuremberg,2090]]'
+  - '[[_Standards/WikiData/WD~Brno,14960]]'
+  - '[[_Standards/WikiData/WD~Tirana,19689]]'
+  - '[[_Standards/WikiData/WD~Daejeon,20921]]'
+  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+  - '[[_Standards/WikiData/WD~Cincinnati,43196]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
-  - "[[_Standards/WikiData/WD~Hero_City_of_Ukraine,111141281]]"
+  - '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
+  - '[[_Standards/WikiData/WD~Hero_City_of_Ukraine,111141281]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Kharkiv_Metro,673320]]"
-  - "[[_Standards/WikiData/WD~KhTZ_Stadium,6398755]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Kharkiv_River,1033990]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Kharkiv,2024202]]"
+  - '[[_Standards/WikiData/WD~Kharkiv_Metro,673320]]'
+  - '[[_Standards/WikiData/WD~KhTZ_Stadium,6398755]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Kharkiv_River,1033990]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Kharkiv,2024202]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Industrialnyi_District,2112093]]"
-  - "[[_Standards/WikiData/WD~Shevchenkivskyi_District,4160816]]"
-  - "[[_Standards/WikiData/WD~Kyiv_District,4220235]]"
+  - '[[_Standards/WikiData/WD~Industrialnyi_District,2112093]]'
+  - '[[_Standards/WikiData/WD~Shevchenkivskyi_District,4160816]]'
+  - '[[_Standards/WikiData/WD~Kyiv_District,4220235]]'
   - "[[_Standards/WikiData/WD~Slobids'kyi_District,4229581]]"
-  - "[[_Standards/WikiData/WD~Saltivskyi_District,4304270]]"
-  - "[[_Standards/WikiData/WD~Novobavarskyi_District,4333164]]"
-  - "[[_Standards/WikiData/WD~Nemyshlyanskyi_District,4493135]]"
-  - "[[_Standards/WikiData/WD~Osnovianskyi_District,4512330]]"
-  - "[[_Standards/WikiData/WD~Kholodnohirskyi_District,7242862]]"
+  - '[[_Standards/WikiData/WD~Saltivskyi_District,4304270]]'
+  - '[[_Standards/WikiData/WD~Novobavarskyi_District,4333164]]'
+  - '[[_Standards/WikiData/WD~Nemyshlyanskyi_District,4493135]]'
+  - '[[_Standards/WikiData/WD~Osnovianskyi_District,4512330]]'
+  - '[[_Standards/WikiData/WD~Kholodnohirskyi_District,7242862]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~history_of_Kharkiv,4204758]]"
-  - "[[_Standards/WikiData/WD~timeline_of_Kharkiv,19901671]]"
-flag: "[[_Standards/WikiData/WD~Flags_of_Kharkiv,4488270]]"
-legislative_body: "[[_Standards/WikiData/WD~Kharkiv_City_council,4496302]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+  - '[[_Standards/WikiData/WD~history_of_Kharkiv,4204758]]'
+  - '[[_Standards/WikiData/WD~timeline_of_Kharkiv,19901671]]'
+flag: '[[_Standards/WikiData/WD~Flags_of_Kharkiv,4488270]]'
+legislative_body: '[[_Standards/WikiData/WD~Kharkiv_City_council,4496302]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~city_in_Ukraine,12131624]]"
-  - "[[_Standards/WikiData/WD~centre_of_oblast,12134916]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Kharkiv,14615003]]"
-member_of: "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Kharkiv,100864733]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kharkiv_Raion,102428285]]"
-head_of_government: "[[_Standards/WikiData/WD~Ihor_Terekhov,104217954]]"
-capital_of: "[[_Standards/WikiData/WD~Kharkiv_Urban_Hromada,104426576]]"
-public_holiday: "[[_Standards/WikiData/WD~Q136125900,136125900]]"
+  - '[[_Standards/WikiData/WD~city_in_Ukraine,12131624]]'
+  - '[[_Standards/WikiData/WD~centre_of_oblast,12134916]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kharkiv,14615003]]'
+member_of: '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Kharkiv,100864733]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Kharkiv_Raion,102428285]]'
+head_of_government: '[[_Standards/WikiData/WD~Ihor_Terekhov,104217954]]'
+capital_of: '[[_Standards/WikiData/WD~Kharkiv_Urban_Hromada,104426576]]'
+public_holiday: '[[_Standards/WikiData/WD~Q136125900,136125900]]'
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%20%D0%B4%D0%B5%D1%80%D0%B6%D0%BF%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96%2C%20%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%20DJI%200068.jpg
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+  - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-official_language: "[[_Standards/WikiData/WD~Ukrainian,8798]]"
-country: "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+official_language: '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 area: 350
 elevation_above_sea_level: 152
-local_dialing_code: "572"
-WOEID: "922137"
+local_dialing_code: 572
+WOEID: 922137
 population: 1421125
 BHCL_UUID:
   - 031e5a71-77cd-40cd-a39e-b2b26590080c
@@ -119,7 +119,7 @@ GitHub_topic: kharkiv
 Commons_category: Kharkiv
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Kharkiv.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%B2%D0%B7%D0%B8%D0%BC%D0%BA%D1%83%2C%20%D0%B0%D0%B5%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE.jpg
-U_S_National_Archives_Identifier: "10045632"
+U_S_National_Archives_Identifier: 10045632
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD%20%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/City%20of%20Kharkiv%20State%20of%20Ukraine%20Recorded%20by%20Viktor%20O%20Ledenyov.ogg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Kharkiv-town-flag.svg

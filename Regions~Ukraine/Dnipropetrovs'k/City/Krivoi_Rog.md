@@ -1,16 +1,20 @@
 ---
-location: [47.9,33.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Krivoi_Rog
+  - Krivoi Rog
+location:
+  - 47.9
+  - 33.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31653
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

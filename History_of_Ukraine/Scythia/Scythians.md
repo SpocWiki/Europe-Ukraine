@@ -3,24 +3,25 @@ aliases:
   - Scythen
   - Scyths
   - Pontic Scythians
+  - Scythians
 has_id_wikidata: Q131802
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Histories,746583]]"
-  - "[[_Standards/WikiData/WD~Book_of_Genesis,9184]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Scythian,749834]]"
-native_language: "[[_Standards/WikiData/WD~Scythian,749834]]"
-part_of: "[[_Standards/WikiData/WD~Iranian_peoples,1672477]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Eurasian_nomads,1753235]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+  - '[[_Standards/WikiData/WD~Histories,746583]]'
+  - '[[_Standards/WikiData/WD~Book_of_Genesis,9184]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Scythian,749834]]'
+native_language: '[[_Standards/WikiData/WD~Scythian,749834]]'
+part_of: '[[_Standards/WikiData/WD~Iranian_peoples,1672477]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Eurasian_nomads,1753235]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scythian%20Warriors.jpg
 Krugosvet_article_archived_: narody-i-yazyki/skify
 Commons_category: Scythians

@@ -1,16 +1,19 @@
 ---
-location: [46.63,32.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cherson
+location:
+  - 46.63
+  - 32.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29578
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

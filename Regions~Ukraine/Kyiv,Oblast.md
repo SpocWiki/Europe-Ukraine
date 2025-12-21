@@ -2,6 +2,7 @@
 aliases:
   - Kyiv Oblast
   - Kiev Oblast
+  - Kyiv,Oblast
 location:
   - 50.3
   - 31.5
@@ -20,11 +21,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Kyiv,Oblast]]

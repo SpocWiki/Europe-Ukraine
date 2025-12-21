@@ -1,16 +1,19 @@
 ---
-location: [50.6,27.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nowograd=Volynskiy
+location:
+  - 50.6
+  - 27.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32980
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

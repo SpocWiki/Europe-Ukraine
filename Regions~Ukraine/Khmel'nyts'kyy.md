@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Khmel'nyts'kyy
 location:
   - 49.5
   - 26.9
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Khmel'nyts'kyy
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Khmel'nyts'kyy

@@ -1,16 +1,19 @@
 ---
-location: [48.33,25.15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kosow
+location:
+  - 48.33
+  - 25.15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31590
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

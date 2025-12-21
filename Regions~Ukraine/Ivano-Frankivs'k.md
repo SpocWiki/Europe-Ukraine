@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ivano-Frankivs'k
 location:
   - 48.6
   - 24.7
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ivano-Frankivs'k
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ivano-Frankivs'k

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Ukraine
+  - Ucrania
+  - أوكرانيا
+  - 乌克兰
+  - Украина
+  - ReadMe
 location:
   - 50.45
   - 30.5
@@ -15,18 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Ukraine
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Ukraine
-  - Ucrania
-  - أوكرانيا
-  - 乌克兰
-  - Украина
+publishDate: ''
+expiryDate: ''
 Languages:
   - uk
   - ru-UA

@@ -1,16 +1,19 @@
 ---
-location: [49.45,32.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tscherkassy
+location:
+  - 49.45
+  - 32.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35017
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

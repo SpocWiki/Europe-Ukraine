@@ -4,6 +4,7 @@ aliases:
   - Гетьма́нщина
   - Військо Запорозьке
   - Exercitus Zaporoviensis
+  - Cossack_Hetmanate
 has_id_wikidata: Q212439
 ---
 

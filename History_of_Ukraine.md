@@ -1,16 +1,18 @@
 ---
 aliases:
   - history of Ukraine
+  - History_of_Ukraine
+  - History of Ukraine
 has_id_wikidata: Q210701
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Ukraine,13286797]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Ukraine,13286797]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Ukraine,212]]"
-country: "[[_Standards/WikiData/WD~Ukraine,212]]"
+  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Ukraine,212]]'
+country: '[[_Standards/WikiData/WD~Ukraine,212]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirogovskaya-3-1.jpg
 Commons_category: History of Ukraine

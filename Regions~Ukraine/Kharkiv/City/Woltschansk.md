@@ -1,16 +1,19 @@
 ---
-location: [50.28,36.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Woltschansk
+location:
+  - 50.28
+  - 36.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35698
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

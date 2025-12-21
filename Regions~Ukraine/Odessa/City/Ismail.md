@@ -1,16 +1,19 @@
 ---
-location: [45.35,28.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ismail
+location:
+  - 45.35
+  - 28.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31133
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
