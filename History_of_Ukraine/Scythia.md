@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0300-01-01 
 aliases:
 has_id_wikidata: Q845909
 described_by_source:

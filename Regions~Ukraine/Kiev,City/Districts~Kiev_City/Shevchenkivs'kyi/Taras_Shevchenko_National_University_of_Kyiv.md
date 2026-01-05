@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1834-01-01 
 aliases:
   - Kyiv University
   - Shevchenko University

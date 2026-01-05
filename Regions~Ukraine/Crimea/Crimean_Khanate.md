@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1441-01-01 
+has_time_stopped: 1783-04-19 
 aliases:
 has_id_wikidata: Q160440
 capital:

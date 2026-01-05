@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1648-02-09 
+has_time_stopped: 1764-12-02 
 aliases:
   - Cossack Hetmanate
   - Гетьма́нщина

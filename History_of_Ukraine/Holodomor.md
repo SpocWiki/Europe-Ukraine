@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1932-01-01 
+has_time_stopped: 1933-01-01 
 aliases:
 has_id_wikidata: Q165058
 locations: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"

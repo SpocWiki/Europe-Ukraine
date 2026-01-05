@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0482-01-01 
 aliases:
   - Kiev City
   - Kyiv
