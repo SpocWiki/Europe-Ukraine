@@ -21,16 +21,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Lviv,36036|WD~Lviv,36036]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Lviv,36036|WD~Lviv,36036]]"
 ---
 
 # [[Lviv]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Lviv,36036|WD~Lviv,36036]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -69,17 +72,17 @@ markerFolder: ./L'viv/
 
 ## Confidential Links & Embeds: 
 
-### [L'viv](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv|Lviv]] 
 
-### [L'viv.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.public|Lviv.public]] 
 
-### [L'viv.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.internal|Lviv.internal]] 
 
-### [L'viv.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.protect|Lviv.protect]] 
 
-### [L'viv.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.private|Lviv.private]] 
 
-### [L'viv.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.personal|Lviv.personal]] 
 
-### [L'viv.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv.secret|Lviv.secret]] 
 

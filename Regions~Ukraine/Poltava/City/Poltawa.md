@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33436
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 34.57
+dv_has_place_latitude: 49.58
+dv_name: Poltawa
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::34.57] 
-[has_place_latitude::49.58] 
-[name::Poltawa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poltawa](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa|Poltawa]] 
 
-### [Poltawa.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.public|Poltawa.public]] 
 
-### [Poltawa.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.internal|Poltawa.internal]] 
 
-### [Poltawa.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.protect|Poltawa.protect]] 
 
-### [Poltawa.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.private|Poltawa.private]] 
 
-### [Poltawa.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.personal|Poltawa.personal]] 
 
-### [Poltawa.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Poltava/City/Poltawa.secret|Poltawa.secret]] 
 

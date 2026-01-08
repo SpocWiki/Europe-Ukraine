@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34881
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.03
+dv_has_place_latitude: 46.83
+dv_name: Tiraspol
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.03] 
-[has_place_latitude::46.83] 
-[name::Tiraspol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tiraspol](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol|Tiraspol]] 
 
-### [Tiraspol.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.public|Tiraspol.public]] 
 
-### [Tiraspol.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.internal|Tiraspol.internal]] 
 
-### [Tiraspol.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.protect|Tiraspol.protect]] 
 
-### [Tiraspol.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.private|Tiraspol.private]] 
 
-### [Tiraspol.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.personal|Tiraspol.personal]] 
 
-### [Tiraspol.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Tiraspol.secret|Tiraspol.secret]] 
 

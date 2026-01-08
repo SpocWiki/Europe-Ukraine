@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35842
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.13
+dv_has_place_latitude: 49.03
+dv_name: Zmerinka
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.13] 
-[has_place_latitude::49.03] 
-[name::Zmerinka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zmerinka](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka|Zmerinka]] 
 
-### [Zmerinka.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.public|Zmerinka.public]] 
 
-### [Zmerinka.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.internal|Zmerinka.internal]] 
 
-### [Zmerinka.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.protect|Zmerinka.protect]] 
 
-### [Zmerinka.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.private|Zmerinka.private]] 
 
-### [Zmerinka.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.personal|Zmerinka.personal]] 
 
-### [Zmerinka.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Zmerinka.secret|Zmerinka.secret]] 
 

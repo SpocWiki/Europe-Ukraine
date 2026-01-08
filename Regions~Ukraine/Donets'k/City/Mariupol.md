@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32302
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.58
+dv_has_place_latitude: 47.1
+dv_name: Mariupol
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.58] 
-[has_place_latitude::47.1] 
-[name::Mariupol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mariupol](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol|Mariupol]] 
 
-### [Mariupol.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.public|Mariupol.public]] 
 
-### [Mariupol.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.internal|Mariupol.internal]] 
 
-### [Mariupol.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.protect|Mariupol.protect]] 
 
-### [Mariupol.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.private|Mariupol.private]] 
 
-### [Mariupol.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.personal|Mariupol.personal]] 
 
-### [Mariupol.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Mariupol.secret|Mariupol.secret]] 
 

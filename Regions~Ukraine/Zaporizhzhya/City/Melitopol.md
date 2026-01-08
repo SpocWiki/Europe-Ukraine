@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32393
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.37
+dv_has_place_latitude: 46.83
+dv_name: Melitopol
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.37] 
-[has_place_latitude::46.83] 
-[name::Melitopol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melitopol](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol|Melitopol]] 
 
-### [Melitopol.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.public|Melitopol.public]] 
 
-### [Melitopol.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.internal|Melitopol.internal]] 
 
-### [Melitopol.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.protect|Melitopol.protect]] 
 
-### [Melitopol.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.private|Melitopol.private]] 
 
-### [Melitopol.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.personal|Melitopol.personal]] 
 
-### [Melitopol.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Melitopol.secret|Melitopol.secret]] 
 

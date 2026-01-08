@@ -40,17 +40,17 @@ markerFolder: ./Transcarpathia/
 
 ## Confidential Links & Embeds: 
 
-### [Transcarpathia](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia|Transcarpathia]] 
 
-### [Transcarpathia.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.public|Transcarpathia.public]] 
 
-### [Transcarpathia.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.internal|Transcarpathia.internal]] 
 
-### [Transcarpathia.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.protect|Transcarpathia.protect]] 
 
-### [Transcarpathia.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.private|Transcarpathia.private]] 
 
-### [Transcarpathia.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.personal|Transcarpathia.personal]] 
 
-### [Transcarpathia.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia.secret|Transcarpathia.secret]] 
 

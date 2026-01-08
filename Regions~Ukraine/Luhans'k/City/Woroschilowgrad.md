@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35708
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 39.33
+dv_has_place_latitude: 48.57
+dv_name: Woroschilowgrad
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::39.33] 
-[has_place_latitude::48.57] 
-[name::Woroschilowgrad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Woroschilowgrad](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad|Woroschilowgrad]] 
 
-### [Woroschilowgrad.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.public|Woroschilowgrad.public]] 
 
-### [Woroschilowgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.internal|Woroschilowgrad.internal]] 
 
-### [Woroschilowgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.protect|Woroschilowgrad.protect]] 
 
-### [Woroschilowgrad.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.private|Woroschilowgrad.private]] 
 
-### [Woroschilowgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.personal|Woroschilowgrad.personal]] 
 
-### [Woroschilowgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Woroschilowgrad.secret|Woroschilowgrad.secret]] 
 

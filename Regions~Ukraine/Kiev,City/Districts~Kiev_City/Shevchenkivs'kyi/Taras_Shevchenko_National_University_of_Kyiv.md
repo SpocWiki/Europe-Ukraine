@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Taras_Shevchenko_National_University_of_Kyiv,84151|WD~Taras_Shevchenko_National_University_of_Kyiv,84151]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Taras_Shevchenko_National_University_of_Kyiv,84151|WD~Taras_Shevchenko_National_University_of_Kyiv,84151]]"
+
 has_time_started: 1834-01-01 
 aliases:
   - Kyiv University
@@ -106,7 +110,7 @@ Facebook_username: kyiv.university
 
 # [[Taras_Shevchenko_National_University_of_Kyiv]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Taras_Shevchenko_National_University_of_Kyiv,84151|WD~Taras_Shevchenko_National_University_of_Kyiv,84151]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -119,4 +123,21 @@ Facebook_username: kyiv.university
 > The university is the third-oldest university in Ukraine after the University of Lviv and the University of Kharkiv. Its structure consists of 15 faculties and five institutes. The university was founded in 1834 by Nicholas I of Russia as the Saint Vladimir Imperial University of Kiev; it has since changed its name several times. During the Soviet Union era, Kiev State University was one of the top three universities in the USSR, along with Moscow State University and Leningrad State University. It is ranked as the best university in Ukraine in many rankings. Its alumni include Mykola Lysenko, Nikolay Bunge, Mykhailo Drahomanov, Mykhailo Hrushevskyi, Nikolai Berdyaev, Mikhail Bulgakov, Ivan Schmalhausen, Theodosius Dobzhansky, Viacheslav Chornovil, and Leonid Kravchuk. The university is named after Taras Shevchenko, who was banned from educational activities for political reasons, but worked for the university as a field researcher.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taras%20Shevchenko%20National%20University%20of%20Kyiv) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv|Taras_Shevchenko_National_University_of_Kyiv]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.public|Taras_Shevchenko_National_University_of_Kyiv.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.internal|Taras_Shevchenko_National_University_of_Kyiv.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.protect|Taras_Shevchenko_National_University_of_Kyiv.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.private|Taras_Shevchenko_National_University_of_Kyiv.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.personal|Taras_Shevchenko_National_University_of_Kyiv.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City/Districts~Kiev_City/Shevchenkivs'kyi/Taras_Shevchenko_National_University_of_Kyiv.secret|Taras_Shevchenko_National_University_of_Kyiv.secret]] 
 

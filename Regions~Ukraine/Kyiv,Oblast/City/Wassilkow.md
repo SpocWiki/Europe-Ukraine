@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35470
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.32
+dv_has_place_latitude: 50.18
+dv_name: Wassilkow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.32] 
-[has_place_latitude::50.18] 
-[name::Wassilkow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wassilkow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow|Wassilkow]] 
 
-### [Wassilkow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.public|Wassilkow.public]] 
 
-### [Wassilkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.internal|Wassilkow.internal]] 
 
-### [Wassilkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.protect|Wassilkow.protect]] 
 
-### [Wassilkow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.private|Wassilkow.private]] 
 
-### [Wassilkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.personal|Wassilkow.personal]] 
 
-### [Wassilkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Wassilkow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Wassilkow.secret|Wassilkow.secret]] 
 

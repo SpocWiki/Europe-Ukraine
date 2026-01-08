@@ -4,32 +4,35 @@ aliases:
   - Cossacks
   - Cossack
 has_id_wikidata: Q47805
-different_from: '[[_Standards/WikiData/WD~Kazakhs,80040]]'
+different_from: "[[_Standards/WikiData/WD~Kazakhs,80040]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~social_class,187588]]'
-  - '[[_Standards/WikiData/WD~estates_of_the_realm,657326]]'
-  - '[[_Standards/WikiData/WD~occupation,12737077]]'
-  - '[[_Standards/WikiData/WD~ethnic_community,25380035]]'
+  - "[[_Standards/WikiData/WD~social_class,187588]]"
+  - "[[_Standards/WikiData/WD~estates_of_the_realm,657326]]"
+  - "[[_Standards/WikiData/WD~occupation,12737077]]"
+  - "[[_Standards/WikiData/WD~ethnic_community,25380035]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Sinopsis_Kozakov,112123809]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-commanded_by: '[[_Standards/WikiData/WD~hetman,625652]]'
-subclass_of: '[[_Standards/WikiData/WD~military,8473]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Sinopsis_Kozakov,112123809]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+commanded_by: "[[_Standards/WikiData/WD~hetman,625652]]"
+subclass_of: "[[_Standards/WikiData/WD~military,8473]]"
 Commons_category: Cossacks
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Repin%20Cossacks.jpg
 Krugosvet_article_archived_: istoriya/KAZAKI.html
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Cossacks,47805|WD~Cossacks,47805]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Cossacks,47805|WD~Cossacks,47805]]"
 ---
 
 # [[Cossack]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Cossacks,47805|WD~Cossacks,47805]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -97,4 +100,21 @@ Krugosvet_article_archived_: istoriya/KAZAKI.html
 > and the United States.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cossacks) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack|Cossack]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.public|Cossack.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.internal|Cossack.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.protect|Cossack.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.private|Cossack.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.personal|Cossack.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack.secret|Cossack.secret]] 
 

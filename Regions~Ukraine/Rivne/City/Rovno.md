@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33811
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.15
+dv_has_place_latitude: 50.58
+dv_name: Rovno
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.15] 
-[has_place_latitude::50.58] 
-[name::Rovno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rovno](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno|Rovno]] 
 
-### [Rovno.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.public|Rovno.public]] 
 
-### [Rovno.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.internal|Rovno.internal]] 
 
-### [Rovno.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.protect|Rovno.protect]] 
 
-### [Rovno.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.private|Rovno.private]] 
 
-### [Rovno.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.personal|Rovno.personal]] 
 
-### [Rovno.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne/City/Rovno.secret|Rovno.secret]] 
 

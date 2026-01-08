@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Kharkiv,42308|WD~Kharkiv,42308]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Kharkiv,42308|WD~Kharkiv,42308]]"
+
 has_time_started: 1654-01-01 
 aliases:
   - Kharkiv
@@ -138,7 +142,7 @@ coordinate_location: Point(36.231111111 49.9925)
 
 # [[Kharkiv]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Kharkiv,42308|WD~Kharkiv,42308]]
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Kharkiv
@@ -173,17 +177,17 @@ markerFolder: ./Kharkiv/
 
 ## Confidential Links & Embeds: 
 
-### [Kharkiv](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv|Kharkiv]] 
 
-### [Kharkiv.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.public|Kharkiv.public]] 
 
-### [Kharkiv.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.internal|Kharkiv.internal]] 
 
-### [Kharkiv.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.protect|Kharkiv.protect]] 
 
-### [Kharkiv.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.private|Kharkiv.private]] 
 
-### [Kharkiv.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.personal|Kharkiv.personal]] 
 
-### [Kharkiv.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv.secret|Kharkiv.secret]] 
 

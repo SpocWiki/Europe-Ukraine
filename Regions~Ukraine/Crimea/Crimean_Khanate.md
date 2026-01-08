@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Crimean_Khanate,160440|WD~Crimean_Khanate,160440]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Crimean_Khanate,160440|WD~Crimean_Khanate,160440]]"
+
 has_time_started: 1441-01-01 
 has_time_stopped: 1783-04-19 
 aliases:
@@ -57,7 +61,7 @@ dissolved_abolished_or_demolished_date: 1783-04-19T00:00:00Z
 
 # [[Crimean_Khanate]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Crimean_Khanate,160440|WD~Crimean_Khanate,160440]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -70,4 +74,21 @@ dissolved_abolished_or_demolished_date: 1783-04-19T00:00:00Z
 > In 1783, violating the 1774 Treaty of Küçük Kaynarca (which had guaranteed non-interference of both Russia and the Ottoman Empire in the affairs of the Crimean Khanate), the Russian Empire annexed the khanate. Among the European powers, only France came out with an open protest against this act, due to the longstanding Franco-Ottoman alliance.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crimean%20Khanate) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate|Crimean_Khanate]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.public|Crimean_Khanate.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.internal|Crimean_Khanate.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.protect|Crimean_Khanate.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.private|Crimean_Khanate.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.personal|Crimean_Khanate.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/Crimean_Khanate.secret|Crimean_Khanate.secret]] 
 

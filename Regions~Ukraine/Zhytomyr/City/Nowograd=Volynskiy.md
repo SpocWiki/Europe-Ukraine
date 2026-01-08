@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32980
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.62
+dv_has_place_latitude: 50.6
+dv_name: Nowograd=Volynskiy
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.62] 
-[has_place_latitude::50.6] 
-[name::Nowograd=Volynskiy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowograd=Volynskiy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy|Nowograd=Volynskiy]] 
 
-### [Nowograd=Volynskiy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.public|Nowograd=Volynskiy.public]] 
 
-### [Nowograd=Volynskiy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.internal|Nowograd=Volynskiy.internal]] 
 
-### [Nowograd=Volynskiy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.protect|Nowograd=Volynskiy.protect]] 
 
-### [Nowograd=Volynskiy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.private|Nowograd=Volynskiy.private]] 
 
-### [Nowograd=Volynskiy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.personal|Nowograd=Volynskiy.personal]] 
 
-### [Nowograd=Volynskiy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Nowograd=Volynskiy.secret|Nowograd=Volynskiy.secret]] 
 

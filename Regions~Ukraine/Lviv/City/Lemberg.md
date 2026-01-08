@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31930
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.05
+dv_has_place_latitude: 49.83
+dv_name: Lemberg
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.05] 
-[has_place_latitude::49.83] 
-[name::Lemberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lemberg](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg|Lemberg]] 
 
-### [Lemberg.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.public|Lemberg.public]] 
 
-### [Lemberg.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.internal|Lemberg.internal]] 
 
-### [Lemberg.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.protect|Lemberg.protect]] 
 
-### [Lemberg.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.private|Lemberg.private]] 
 
-### [Lemberg.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.personal|Lemberg.personal]] 
 
-### [Lemberg.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Lemberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Lemberg.secret|Lemberg.secret]] 
 

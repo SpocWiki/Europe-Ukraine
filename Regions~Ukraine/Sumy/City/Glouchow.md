@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30478
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.92
+dv_has_place_latitude: 51.68
+dv_name: Glouchow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.92] 
-[has_place_latitude::51.68] 
-[name::Glouchow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Glouchow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow|Glouchow]] 
 
-### [Glouchow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.public|Glouchow.public]] 
 
-### [Glouchow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.internal|Glouchow.internal]] 
 
-### [Glouchow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.protect|Glouchow.protect]] 
 
-### [Glouchow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.private|Glouchow.private]] 
 
-### [Glouchow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.personal|Glouchow.personal]] 
 
-### [Glouchow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Glouchow.secret|Glouchow.secret]] 
 

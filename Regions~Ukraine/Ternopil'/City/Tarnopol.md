@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34765
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.6
+dv_has_place_latitude: 49.55
+dv_name: Tarnopol
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.6] 
-[has_place_latitude::49.55] 
-[name::Tarnopol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarnopol](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol|Tarnopol]] 
 
-### [Tarnopol.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.public|Tarnopol.public]] 
 
-### [Tarnopol.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.internal|Tarnopol.internal]] 
 
-### [Tarnopol.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.protect|Tarnopol.protect]] 
 
-### [Tarnopol.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.private|Tarnopol.private]] 
 
-### [Tarnopol.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.personal|Tarnopol.personal]] 
 
-### [Tarnopol.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Tarnopol.secret|Tarnopol.secret]] 
 

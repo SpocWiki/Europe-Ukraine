@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29290
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.05
+dv_has_place_latitude: 48.8
+dv_name: Borszczow
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.05] 
-[has_place_latitude::48.8] 
-[name::Borszczow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borszczow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow|Borszczow]] 
 
-### [Borszczow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.public|Borszczow.public]] 
 
-### [Borszczow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.internal|Borszczow.internal]] 
 
-### [Borszczow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.protect|Borszczow.protect]] 
 
-### [Borszczow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.private|Borszczow.private]] 
 
-### [Borszczow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.personal|Borszczow.personal]] 
 
-### [Borszczow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'/City/Borszczow.secret|Borszczow.secret]] 
 

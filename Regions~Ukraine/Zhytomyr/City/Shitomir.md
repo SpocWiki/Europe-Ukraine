@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34236
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.67
+dv_has_place_latitude: 50.25
+dv_name: Shitomir
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.67] 
-[has_place_latitude::50.25] 
-[name::Shitomir] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shitomir](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir|Shitomir]] 
 
-### [Shitomir.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.public|Shitomir.public]] 
 
-### [Shitomir.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.internal|Shitomir.internal]] 
 
-### [Shitomir.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.protect|Shitomir.protect]] 
 
-### [Shitomir.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.private|Shitomir.private]] 
 
-### [Shitomir.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.personal|Shitomir.personal]] 
 
-### [Shitomir.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Shitomir.secret|Shitomir.secret]] 
 

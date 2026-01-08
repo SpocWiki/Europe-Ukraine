@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34695
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.97
+dv_has_place_latitude: 49.08
+dv_name: Swenigorodka
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.97] 
-[has_place_latitude::49.08] 
-[name::Swenigorodka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Swenigorodka](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka|Swenigorodka]] 
 
-### [Swenigorodka.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.public|Swenigorodka.public]] 
 
-### [Swenigorodka.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.internal|Swenigorodka.internal]] 
 
-### [Swenigorodka.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.protect|Swenigorodka.protect]] 
 
-### [Swenigorodka.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.private|Swenigorodka.private]] 
 
-### [Swenigorodka.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.personal|Swenigorodka.personal]] 
 
-### [Swenigorodka.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy/City/Swenigorodka.secret|Swenigorodka.secret]] 
 

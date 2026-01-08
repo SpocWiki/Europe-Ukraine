@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32529
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.82
+dv_has_place_latitude: 48.43
+dv_name: Mogilew-Podolskiy
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.82] 
-[has_place_latitude::48.43] 
-[name::Mogilew-Podolskiy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mogilew-Podolskiy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy|Mogilew-Podolskiy]] 
 
-### [Mogilew-Podolskiy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.public|Mogilew-Podolskiy.public]] 
 
-### [Mogilew-Podolskiy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.internal|Mogilew-Podolskiy.internal]] 
 
-### [Mogilew-Podolskiy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.protect|Mogilew-Podolskiy.protect]] 
 
-### [Mogilew-Podolskiy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.private|Mogilew-Podolskiy.private]] 
 
-### [Mogilew-Podolskiy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.personal|Mogilew-Podolskiy.personal]] 
 
-### [Mogilew-Podolskiy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Vinnytsya/City/Mogilew-Podolskiy.secret|Mogilew-Podolskiy.secret]] 
 

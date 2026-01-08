@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34512
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 37.8
+dv_has_place_latitude: 48
+dv_name: Stalino
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::37.8] 
-[has_place_latitude::48] 
-[name::Stalino] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stalino](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino|Stalino]] 
 
-### [Stalino.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.public|Stalino.public]] 
 
-### [Stalino.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.internal|Stalino.internal]] 
 
-### [Stalino.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.protect|Stalino.protect]] 
 
-### [Stalino.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.private|Stalino.private]] 
 
-### [Stalino.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.personal|Stalino.personal]] 
 
-### [Stalino.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Donets'k/City/Stalino.secret|Stalino.secret]] 
 

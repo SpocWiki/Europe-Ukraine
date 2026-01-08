@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31390
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.43
+dv_has_place_latitude: 45.4
+dv_name: Kerch
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.43] 
-[has_place_latitude::45.4] 
-[name::Kerch] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kerch](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch|Kerch]] 
 
-### [Kerch.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.public|Kerch.public]] 
 
-### [Kerch.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.internal|Kerch.internal]] 
 
-### [Kerch.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.protect|Kerch.protect]] 
 
-### [Kerch.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.private|Kerch.private]] 
 
-### [Kerch.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.personal|Kerch.personal]] 
 
-### [Kerch.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Kerch.secret|Kerch.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29887
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.5
+dv_has_place_latitude: 49.35
+dv_name: Drogobycz
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.5] 
-[has_place_latitude::49.35] 
-[name::Drogobycz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Drogobycz](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz|Drogobycz]] 
 
-### [Drogobycz.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.public|Drogobycz.public]] 
 
-### [Drogobycz.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.internal|Drogobycz.internal]] 
 
-### [Drogobycz.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.protect|Drogobycz.protect]] 
 
-### [Drogobycz.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.private|Drogobycz.private]] 
 
-### [Drogobycz.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.personal|Drogobycz.personal]] 
 
-### [Drogobycz.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Drogobycz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Drogobycz.secret|Drogobycz.secret]] 
 

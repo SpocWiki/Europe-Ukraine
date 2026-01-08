@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35181
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.62
+dv_has_place_latitude: 49.83
+dv_name: Valki
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.62] 
-[has_place_latitude::49.83] 
-[name::Valki] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valki](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki|Valki]] 
 
-### [Valki.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.public|Valki.public]] 
 
-### [Valki.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.internal|Valki.internal]] 
 
-### [Valki.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.protect|Valki.protect]] 
 
-### [Valki.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.private|Valki.private]] 
 
-### [Valki.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.personal|Valki.personal]] 
 
-### [Valki.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Valki.secret|Valki.secret]] 
 

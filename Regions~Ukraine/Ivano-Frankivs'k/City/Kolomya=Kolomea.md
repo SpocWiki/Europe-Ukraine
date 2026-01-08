@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31549
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.05
+dv_has_place_latitude: 48.53
+dv_name: Kolomya=Kolomea
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.05] 
-[has_place_latitude::48.53] 
-[name::Kolomya=Kolomea] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kolomya=Kolomea](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea|Kolomya=Kolomea]] 
 
-### [Kolomya=Kolomea.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.public|Kolomya=Kolomea.public]] 
 
-### [Kolomya=Kolomea.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.internal|Kolomya=Kolomea.internal]] 
 
-### [Kolomya=Kolomea.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.protect|Kolomya=Kolomea.protect]] 
 
-### [Kolomya=Kolomea.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.private|Kolomya=Kolomea.private]] 
 
-### [Kolomya=Kolomea.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.personal|Kolomya=Kolomea.personal]] 
 
-### [Kolomya=Kolomea.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Kolomya=Kolomea.secret|Kolomya=Kolomea.secret]] 
 

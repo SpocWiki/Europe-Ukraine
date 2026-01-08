@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33185
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.57
+dv_has_place_latitude: 46.62
+dv_name: Otschokow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.57] 
-[has_place_latitude::46.62] 
-[name::Otschokow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Otschokow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow|Otschokow]] 
 
-### [Otschokow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.public|Otschokow.public]] 
 
-### [Otschokow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.internal|Otschokow.internal]] 
 
-### [Otschokow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.protect|Otschokow.protect]] 
 
-### [Otschokow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.private|Otschokow.private]] 
 
-### [Otschokow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.personal|Otschokow.personal]] 
 
-### [Otschokow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Mykolayiv/City/Otschokow.secret|Otschokow.secret]] 
 

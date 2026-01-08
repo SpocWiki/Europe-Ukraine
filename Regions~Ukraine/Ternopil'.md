@@ -40,17 +40,17 @@ markerFolder: ./Ternopil'/
 
 ## Confidential Links & Embeds: 
 
-### [Ternopil'](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'|Ternopil']] 
 
-### [Ternopil'.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.public|Ternopil'.public]] 
 
-### [Ternopil'.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.internal|Ternopil'.internal]] 
 
-### [Ternopil'.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.protect|Ternopil'.protect]] 
 
-### [Ternopil'.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.private|Ternopil'.private]] 
 
-### [Ternopil'.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.personal|Ternopil'.personal]] 
 
-### [Ternopil'.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ternopil'.secret|Ternopil'.secret]] 
 

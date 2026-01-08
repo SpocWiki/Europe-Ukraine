@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35020
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.23
+dv_has_place_latitude: 51.28
+dv_name: Tschernohye
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.23] 
-[has_place_latitude::51.28] 
-[name::Tschernohye] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tschernohye](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye|Tschernohye]] 
 
-### [Tschernohye.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.public|Tschernohye.public]] 
 
-### [Tschernohye.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.internal|Tschernohye.internal]] 
 
-### [Tschernohye.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.protect|Tschernohye.protect]] 
 
-### [Tschernohye.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.private|Tschernohye.private]] 
 
-### [Tschernohye.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.personal|Tschernohye.personal]] 
 
-### [Tschernohye.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Tschernohye.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Tschernohye.secret|Tschernohye.secret]] 
 

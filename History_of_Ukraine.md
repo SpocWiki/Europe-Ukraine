@@ -4,23 +4,26 @@ aliases:
   - History_of_Ukraine
   - History of Ukraine
 has_id_wikidata: Q210701
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Ukraine,13286797]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Ukraine,13286797]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-  - '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Ukraine,212]]'
-country: '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+  - "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Ukraine,212]]"
+country: "[[_Standards/WikiData/WD~Ukraine,212]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirogovskaya-3-1.jpg
 Commons_category: History of Ukraine
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Ukraine,210701|WD~History_of_Ukraine,210701]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Ukraine,210701|WD~History_of_Ukraine,210701]]"
 ---
 
 # [[History_of_Ukraine]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Ukraine,210701|WD~History_of_Ukraine,210701]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -52,4 +55,21 @@ Commons_category: History of Ukraine
 > Ukraine became independent when the Soviet Union dissolved in 1991. This started a period of transition to a market economy, in which Ukraine suffered an eight-year recession. Subsequently however, the economy experienced a high increase in GDP growth until it plunged during the 2008–2009 Ukrainian financial crisis. This period was marked by economic challenges, the rise of nationalism, and growing tensions with Russian Federation. In 2013, the Euromaidan protests began in response to President Viktor Yanukovych's rejection of an EU association agreement. The Revolution of Dignity followed, leading to Yanukovych's ousting. Russia annexed Crimea in 2014 and supported separatist movements in Donbas, initiating the ongoing Russo-Ukrainian War. This escalated on 24 February 2022, with Russia's full-scale invasion, marking a critical phase in Ukraine's fight for sovereignty and territorial integrity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Ukraine) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine|History_of_Ukraine]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.public|History_of_Ukraine.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.internal|History_of_Ukraine.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.protect|History_of_Ukraine.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.private|History_of_Ukraine.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.personal|History_of_Ukraine.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine.secret|History_of_Ukraine.secret]] 
 

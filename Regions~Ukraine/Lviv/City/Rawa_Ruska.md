@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33660
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.57
+dv_has_place_latitude: 50.23
+dv_name: Rawa Ruska
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.57] 
-[has_place_latitude::50.23] 
-[name::Rawa Ruska] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rawa_Ruska](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska|Rawa_Ruska]] 
 
-### [Rawa_Ruska.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.public|Rawa_Ruska.public]] 
 
-### [Rawa_Ruska.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.internal|Rawa_Ruska.internal]] 
 
-### [Rawa_Ruska.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.protect|Rawa_Ruska.protect]] 
 
-### [Rawa_Ruska.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.private|Rawa_Ruska.private]] 
 
-### [Rawa_Ruska.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.personal|Rawa_Ruska.personal]] 
 
-### [Rawa_Ruska.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Rawa_Ruska.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Rawa_Ruska.secret|Rawa_Ruska.secret]] 
 

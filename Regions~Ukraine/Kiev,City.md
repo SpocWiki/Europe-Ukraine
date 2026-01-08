@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.5
+dv_has_place_latitude: 50.45
+dv_name: Kiew
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
+
 has_time_started: 0482-01-01 
 aliases:
   - Kiev City
@@ -218,15 +226,15 @@ postal_code: 01000–06999
 # [[Kiev,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.5] 
-[has_place_latitude::50.45] 
-[name::Kiew] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Ukraine]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -271,19 +279,20 @@ defaultZoom: 8
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kyiv) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Kiev_City](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City|Kiev,City]] 
 
-### [Kiev_City.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.public|Kiev,City.public]] 
 
-### [Kiev_City.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.internal|Kiev,City.internal]] 
 
-### [Kiev_City.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.protect|Kiev,City.protect]] 
 
-### [Kiev_City.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.private|Kiev,City.private]] 
 
-### [Kiev_City.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.personal|Kiev,City.personal]] 
 
-### [Kiev_City.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev_City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev,City.secret|Kiev,City.secret]] 
 

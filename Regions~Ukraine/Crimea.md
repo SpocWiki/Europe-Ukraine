@@ -21,11 +21,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
 official_name:
   - Къырым
   - Qırım
@@ -34,55 +34,55 @@ official_name:
 demonym: Criméach
 coordinates_of_northernmost_point: Point(34.6 46.3)
 different_from:
-  - '[[_Standards/WikiData/WD~Crimean_Autonomous_Soviet_Socialist_Republic,139671]]'
+  - "[[_Standards/WikiData/WD~Crimean_Autonomous_Soviet_Socialist_Republic,139671]]"
   - "[[_Standards/WikiData/WD~Crimean_People's_Republic,1419681]]"
-  - '[[_Standards/WikiData/WD~Kerim,16904634]]'
+  - "[[_Standards/WikiData/WD~Kerim,16904634]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Autonomous_Republic_of_Crimea,756294]]'
-  - '[[_Standards/WikiData/WD~Republic_of_Crimea,15966495]]'
-highest_point: '[[_Standards/WikiData/WD~Roman_Kosh,2092607]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Crimea,2629621]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~southern_Ukraine,2641546]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Crimea,4313685]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Crimea,4530354]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Subdivisions_of_Crimea,5649868]]'
-category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7976625,7976625]]'
+  - "[[_Standards/WikiData/WD~Autonomous_Republic_of_Crimea,756294]]"
+  - "[[_Standards/WikiData/WD~Republic_of_Crimea,15966495]]"
+highest_point: "[[_Standards/WikiData/WD~Roman_Kosh,2092607]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Crimea,2629621]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~southern_Ukraine,2641546]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Crimea,4313685]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Crimea,4530354]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Subdivisions_of_Crimea,5649868]]"
+category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7976625,7976625]]"
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Russia,10803886]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Crimea,14605781]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202784,13202784]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crimea,14614972]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Russia,10803886]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Crimea,14605781]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202784,13202784]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Crimea,14614972]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~disputed_territory,15239622]]'
-  - '[[_Standards/WikiData/WD~peninsula,34763]]'
+  - "[[_Standards/WikiData/WD~disputed_territory,15239622]]"
+  - "[[_Standards/WikiData/WD~peninsula,34763]]"
 coordinate_location: Point(34.0 45.0)
 coordinates_of_westernmost_point: Point(32.483333333 45.4)
 coordinates_of_easternmost_point: Point(36.65 45.383333333)
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
 country:
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
 territory_claimed_by:
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Ukraine,212]]'
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Black_Sea,166]]'
-  - '[[_Standards/WikiData/WD~Sea_of_Azov,35000]]'
+  - "[[_Standards/WikiData/WD~Black_Sea,166]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Azov,35000]]"
 area: 27000
 BHCL_UUID: ed265090-715b-4b16-8bda-06210ce0b892
 OmegaWiki_Defined_Meaning: 1640254
@@ -100,11 +100,14 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%2
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%95%E0%A9%8D%E0%A8%B0%E0%A9%80%E0%A8%AE%E0%A9%80%E0%A8%86.wav
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Outline%20Map%20of%20Crimea.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20picture%20of%20Crimea%2C%20Terra-MODIS%2C%2005-16-2015.jpg
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Crimea,7835|WD~Crimea,7835]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Crimea,7835|WD~Crimea,7835]]"
 ---
 
 # [[Crimea]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Crimea,7835|WD~Crimea,7835]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -129,20 +132,19 @@ markerFolder: ./Crimea/
 > [Wikipedia](https://en.wikipedia.org/wiki/Crimea) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Crimea](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea|Crimea]] 
 
-### [Crimea.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.public|Crimea.public]] 
 
-### [Crimea.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.internal|Crimea.internal]] 
 
-### [Crimea.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.protect|Crimea.protect]] 
 
-### [Crimea.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.private|Crimea.private]] 
 
-### [Crimea.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.personal|Crimea.personal]] 
 
-### [Crimea.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea.secret|Crimea.secret]] 
 

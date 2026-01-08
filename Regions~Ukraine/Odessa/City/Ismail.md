@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31133
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.82
+dv_has_place_latitude: 45.35
+dv_name: Ismail
+dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.82] 
-[has_place_latitude::45.35] 
-[name::Ismail] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ismail](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail|Ismail]] 
 
-### [Ismail.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.public|Ismail.public]] 
 
-### [Ismail.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.internal|Ismail.internal]] 
 
-### [Ismail.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.protect|Ismail.protect]] 
 
-### [Ismail.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.private|Ismail.private]] 
 
-### [Ismail.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.personal|Ismail.personal]] 
 
-### [Ismail.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Ismail.secret|Ismail.secret]] 
 

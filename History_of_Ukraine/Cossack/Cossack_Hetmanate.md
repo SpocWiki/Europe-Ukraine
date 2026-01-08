@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Cossack_Hetmanate,212439|WD~Cossack_Hetmanate,212439]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Cossack_Hetmanate,212439|WD~Cossack_Hetmanate,212439]]"
+
 has_time_started: 1648-02-09 
 has_time_stopped: 1764-12-02 
 aliases:
@@ -90,7 +94,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 
 # [[Cossack_Hetmanate]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Cossack_Hetmanate,212439|WD~Cossack_Hetmanate,212439]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -105,4 +109,21 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 > After a failed attempt to break the union with Russia by Ivan Mazepa in 1708, the whole area was included into the Kiev Governorate, and Cossack autonomy was severely restricted. Catherine II of Russia officially abolished the institute of the Hetman in 1764, and from 1764 to 1781, the Cossack Hetmanate was incorporated as the Little Russia Governorate headed by Pyotr Rumyantsev, with the last remnants of the Hetmanate's administrative system abolished in 1781.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cossack%20Hetmanate) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate|Cossack_Hetmanate]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.public|Cossack_Hetmanate.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.internal|Cossack_Hetmanate.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.protect|Cossack_Hetmanate.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.private|Cossack_Hetmanate.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.personal|Cossack_Hetmanate.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Cossack/Cossack_Hetmanate.secret|Cossack_Hetmanate.secret]] 
 

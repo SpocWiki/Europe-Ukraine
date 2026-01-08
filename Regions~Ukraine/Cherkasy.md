@@ -40,17 +40,17 @@ markerFolder: ./Cherkasy/
 
 ## Confidential Links & Embeds: 
 
-### [Cherkasy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy|Cherkasy]] 
 
-### [Cherkasy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.public|Cherkasy.public]] 
 
-### [Cherkasy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.internal|Cherkasy.internal]] 
 
-### [Cherkasy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.protect|Cherkasy.protect]] 
 
-### [Cherkasy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.private|Cherkasy.private]] 
 
-### [Cherkasy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.personal|Cherkasy.personal]] 
 
-### [Cherkasy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Cherkasy.secret|Cherkasy.secret]] 
 

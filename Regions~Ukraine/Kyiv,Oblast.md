@@ -70,17 +70,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [Kiev](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast|Kyiv,Oblast]] 
 
-### [Kiev.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.public|Kyiv,Oblast.public]] 
 
-### [Kiev.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.internal|Kyiv,Oblast.internal]] 
 
-### [Kiev.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.protect|Kyiv,Oblast.protect]] 
 
-### [Kiev.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.private|Kyiv,Oblast.private]] 
 
-### [Kiev.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.personal|Kyiv,Oblast.personal]] 
 
-### [Kiev.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast.secret|Kyiv,Oblast.secret]] 
 

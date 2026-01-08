@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30092
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.37
+dv_has_place_latitude: 45.2
+dv_name: Eupatoria
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.37] 
-[has_place_latitude::45.2] 
-[name::Eupatoria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eupatoria](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria|Eupatoria]] 
 
-### [Eupatoria.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.public|Eupatoria.public]] 
 
-### [Eupatoria.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.internal|Eupatoria.internal]] 
 
-### [Eupatoria.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.protect|Eupatoria.protect]] 
 
-### [Eupatoria.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.private|Eupatoria.private]] 
 
-### [Eupatoria.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.personal|Eupatoria.personal]] 
 
-### [Eupatoria.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Eupatoria.secret|Eupatoria.secret]] 
 

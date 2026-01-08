@@ -40,17 +40,17 @@ markerFolder: ./Sevastopol/
 
 ## Confidential Links & Embeds: 
 
-### [Sevastopol](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol|Sevastopol]] 
 
-### [Sevastopol.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.public|Sevastopol.public]] 
 
-### [Sevastopol.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.internal|Sevastopol.internal]] 
 
-### [Sevastopol.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.protect|Sevastopol.protect]] 
 
-### [Sevastopol.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.private|Sevastopol.private]] 
 
-### [Sevastopol.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.personal|Sevastopol.personal]] 
 
-### [Sevastopol.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol.secret|Sevastopol.secret]] 
 

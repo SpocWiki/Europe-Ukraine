@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34527
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.22
+dv_has_place_latitude: 49.75
+dv_name: Starokonstaninow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.22] 
-[has_place_latitude::49.75] 
-[name::Starokonstaninow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Starokonstaninow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow|Starokonstaninow]] 
 
-### [Starokonstaninow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.public|Starokonstaninow.public]] 
 
-### [Starokonstaninow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.internal|Starokonstaninow.internal]] 
 
-### [Starokonstaninow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.protect|Starokonstaninow.protect]] 
 
-### [Starokonstaninow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.private|Starokonstaninow.private]] 
 
-### [Starokonstaninow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.personal|Starokonstaninow.personal]] 
 
-### [Starokonstaninow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Khmel'nyts'kyy/City/Starokonstaninow.secret|Starokonstaninow.secret]] 
 

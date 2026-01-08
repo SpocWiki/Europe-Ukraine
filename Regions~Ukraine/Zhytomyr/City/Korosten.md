@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31579
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.6
+dv_has_place_latitude: 50.95
+dv_name: Korosten
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.6] 
-[has_place_latitude::50.95] 
-[name::Korosten] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Korosten](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten|Korosten]] 
 
-### [Korosten.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.public|Korosten.public]] 
 
-### [Korosten.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.internal|Korosten.internal]] 
 
-### [Korosten.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.protect|Korosten.protect]] 
 
-### [Korosten.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.private|Korosten.private]] 
 
-### [Korosten.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.personal|Korosten.personal]] 
 
-### [Korosten.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zhytomyr/City/Korosten.secret|Korosten.secret]] 
 

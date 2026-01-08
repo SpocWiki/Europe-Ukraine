@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Scythia,845909|WD~Scythia,845909]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Scythia,845909|WD~Scythia,845909]]"
+
 has_time_stopped: 0300-01-01 
 aliases:
 has_id_wikidata: Q845909
@@ -22,7 +26,7 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Scythia"]
 
 # [[Scythia]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Scythia,845909|WD~Scythia,845909]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -32,4 +36,21 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Scythia"]
 > It was inhabited by Scythians, an ancient Eastern Iranian equestrian nomadic people.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scythia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia|Scythia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.public|Scythia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.internal|Scythia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.protect|Scythia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.private|Scythia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.personal|Scythia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/History_of_Ukraine/Scythia.secret|Scythia.secret]] 
 

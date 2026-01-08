@@ -40,17 +40,17 @@ markerFolder: ./Ivano-Frankivs'k/
 
 ## Confidential Links & Embeds: 
 
-### [Ivano-Frankivs'k](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k|Ivano-Frankivs'k]] 
 
-### [Ivano-Frankivs'k.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.public|Ivano-Frankivs'k.public]] 
 
-### [Ivano-Frankivs'k.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.internal|Ivano-Frankivs'k.internal]] 
 
-### [Ivano-Frankivs'k.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.protect|Ivano-Frankivs'k.protect]] 
 
-### [Ivano-Frankivs'k.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.private|Ivano-Frankivs'k.private]] 
 
-### [Ivano-Frankivs'k.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.personal|Ivano-Frankivs'k.personal]] 
 
-### [Ivano-Frankivs'k.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k.secret|Ivano-Frankivs'k.secret]] 
 

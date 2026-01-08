@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32226
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.93
+dv_has_place_latitude: 48.88
+dv_name: Maksymonoka
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.93] 
-[has_place_latitude::48.88] 
-[name::Maksymonoka] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maksymonoka](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka|Maksymonoka]] 
 
-### [Maksymonoka.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.public|Maksymonoka.public]] 
 
-### [Maksymonoka.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.internal|Maksymonoka.internal]] 
 
-### [Maksymonoka.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.protect|Maksymonoka.protect]] 
 
-### [Maksymonoka.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.private|Maksymonoka.private]] 
 
-### [Maksymonoka.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.personal|Maksymonoka.personal]] 
 
-### [Maksymonoka.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Ivano-Frankivs'k/City/Maksymonoka.secret|Maksymonoka.secret]] 
 

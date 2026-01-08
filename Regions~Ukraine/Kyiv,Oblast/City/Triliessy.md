@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34985
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.82
+dv_has_place_latitude: 49.98
+dv_name: Triliessy
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.82] 
-[has_place_latitude::49.98] 
-[name::Triliessy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Triliessy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy|Triliessy]] 
 
-### [Triliessy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.public|Triliessy.public]] 
 
-### [Triliessy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.internal|Triliessy.internal]] 
 
-### [Triliessy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.protect|Triliessy.protect]] 
 
-### [Triliessy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.private|Triliessy.private]] 
 
-### [Triliessy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.personal|Triliessy.personal]] 
 
-### [Triliessy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kiev/City/Triliessy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kyiv,Oblast/City/Triliessy.secret|Triliessy.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sumy/
 
 ## Confidential Links & Embeds: 
 
-### [Sumy](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy|Sumy]] 
 
-### [Sumy.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.public|Sumy.public]] 
 
-### [Sumy.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.internal|Sumy.internal]] 
 
-### [Sumy.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.protect|Sumy.protect]] 
 
-### [Sumy.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.private|Sumy.private]] 
 
-### [Sumy.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.personal|Sumy.personal]] 
 
-### [Sumy.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy.secret|Sumy.secret]] 
 

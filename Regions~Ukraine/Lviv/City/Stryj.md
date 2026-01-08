@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34629
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.87
+dv_has_place_latitude: 49.25
+dv_name: Stryj
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.87] 
-[has_place_latitude::49.25] 
-[name::Stryj] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stryj](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj|Stryj]] 
 
-### [Stryj.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.public|Stryj.public]] 
 
-### [Stryj.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.internal|Stryj.internal]] 
 
-### [Stryj.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.protect|Stryj.protect]] 
 
-### [Stryj.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.private|Stryj.private]] 
 
-### [Stryj.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.personal|Stryj.personal]] 
 
-### [Stryj.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/L'viv/City/Stryj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Lviv/City/Stryj.secret|Stryj.secret]] 
 

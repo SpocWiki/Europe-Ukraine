@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34526
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.93
+dv_has_place_latitude: 49.28
+dv_name: Starohichk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.93] 
-[has_place_latitude::49.28] 
-[name::Starohichk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Starohichk](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk|Starohichk]] 
 
-### [Starohichk.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.public|Starohichk.public]] 
 
-### [Starohichk.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.internal|Starohichk.internal]] 
 
-### [Starohichk.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.protect|Starohichk.protect]] 
 
-### [Starohichk.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.private|Starohichk.private]] 
 
-### [Starohichk.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.personal|Starohichk.personal]] 
 
-### [Starohichk.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Starohichk.secret|Starohichk.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31182
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.07
+dv_has_place_latitude: 48.45
+dv_name: Jekaterinoslaw
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.07] 
-[has_place_latitude::48.45] 
-[name::Jekaterinoslaw] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jekaterinoslaw](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw|Jekaterinoslaw]] 
 
-### [Jekaterinoslaw.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.public|Jekaterinoslaw.public]] 
 
-### [Jekaterinoslaw.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.internal|Jekaterinoslaw.internal]] 
 
-### [Jekaterinoslaw.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.protect|Jekaterinoslaw.protect]] 
 
-### [Jekaterinoslaw.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.private|Jekaterinoslaw.private]] 
 
-### [Jekaterinoslaw.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.personal|Jekaterinoslaw.personal]] 
 
-### [Jekaterinoslaw.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k/City/Jekaterinoslaw.secret|Jekaterinoslaw.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34320
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 38.98
+dv_has_place_latitude: 48.2
+dv_name: Slavianossechsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::38.98] 
-[has_place_latitude::48.2] 
-[name::Slavianossechsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slavianossechsk](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk|Slavianossechsk]] 
 
-### [Slavianossechsk.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.public|Slavianossechsk.public]] 
 
-### [Slavianossechsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.internal|Slavianossechsk.internal]] 
 
-### [Slavianossechsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.protect|Slavianossechsk.protect]] 
 
-### [Slavianossechsk.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.private|Slavianossechsk.private]] 
 
-### [Slavianossechsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.personal|Slavianossechsk.personal]] 
 
-### [Slavianossechsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Luhans'k/City/Slavianossechsk.secret|Slavianossechsk.secret]] 
 

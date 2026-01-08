@@ -40,17 +40,17 @@ markerFolder: ./Rivne/
 
 ## Confidential Links & Embeds: 
 
-### [Rivne](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne|Rivne]] 
 
-### [Rivne.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.public|Rivne.public]] 
 
-### [Rivne.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.internal|Rivne.internal]] 
 
-### [Rivne.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.protect|Rivne.protect]] 
 
-### [Rivne.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.private|Rivne.private]] 
 
-### [Rivne.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.personal|Rivne.personal]] 
 
-### [Rivne.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Rivne.secret|Rivne.secret]] 
 

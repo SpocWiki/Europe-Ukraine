@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.77
+dv_has_place_latitude: 46.48
+dv_name: Odessa
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"
+
 has_time_started: 1500-01-01 
 aliases:
   - Odessa
@@ -121,15 +129,15 @@ inception: 1500-01-01T00:00:00Z
 # [[Odessa]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.77] 
-[has_place_latitude::46.48] 
-[name::Odessa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Russia]]  
 [StateId::] 
 [Population::] 
-#is_/same_as  :: [[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -166,19 +174,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Odesa)
 
+
 ## Confidential Links & Embeds: 
 
-### [Odessa](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa|Odessa]] 
 
-### [Odessa.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.public|Odessa.public]] 
 
-### [Odessa.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.internal|Odessa.internal]] 
 
-### [Odessa.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.protect|Odessa.protect]] 
 
-### [Odessa.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.private|Odessa.private]] 
 
-### [Odessa.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.personal|Odessa.personal]] 
 
-### [Odessa.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Odessa/City/Odessa.secret|Odessa.secret]] 
 

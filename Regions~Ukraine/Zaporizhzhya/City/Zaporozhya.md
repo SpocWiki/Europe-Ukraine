@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35783
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.17
+dv_has_place_latitude: 47.8
+dv_name: Zaporozhya
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.17] 
-[has_place_latitude::47.8] 
-[name::Zaporozhya] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zaporozhya](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya|Zaporozhya]] 
 
-### [Zaporozhya.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.public|Zaporozhya.public]] 
 
-### [Zaporozhya.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.internal|Zaporozhya.internal]] 
 
-### [Zaporozhya.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.protect|Zaporozhya.protect]] 
 
-### [Zaporozhya.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.private|Zaporozhya.private]] 
 
-### [Zaporozhya.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.personal|Zaporozhya.personal]] 
 
-### [Zaporozhya.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Zaporizhzhya/City/Zaporozhya.secret|Zaporozhya.secret]] 
 

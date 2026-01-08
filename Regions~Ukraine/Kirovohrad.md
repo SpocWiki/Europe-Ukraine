@@ -40,17 +40,17 @@ markerFolder: ./Kirovohrad/
 
 ## Confidential Links & Embeds: 
 
-### [Kirovohrad](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad|Kirovohrad]] 
 
-### [Kirovohrad.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.public|Kirovohrad.public]] 
 
-### [Kirovohrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.internal|Kirovohrad.internal]] 
 
-### [Kirovohrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.protect|Kirovohrad.protect]] 
 
-### [Kirovohrad.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.private|Kirovohrad.private]] 
 
-### [Kirovohrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.personal|Kirovohrad.personal]] 
 
-### [Kirovohrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kirovohrad.secret|Kirovohrad.secret]] 
 

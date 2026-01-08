@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28991
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.58
+dv_has_place_latitude: 44.5
+dv_name: Balaklava
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.58] 
-[has_place_latitude::44.5] 
-[name::Balaklava] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Balaklava](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava|Balaklava]] 
 
-### [Balaklava.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.public|Balaklava.public]] 
 
-### [Balaklava.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.internal|Balaklava.internal]] 
 
-### [Balaklava.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.protect|Balaklava.protect]] 
 
-### [Balaklava.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.private|Balaklava.private]] 
 
-### [Balaklava.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.personal|Balaklava.personal]] 
 
-### [Balaklava.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sevastopol/City/Balaklava.secret|Balaklava.secret]] 
 

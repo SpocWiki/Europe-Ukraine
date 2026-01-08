@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35115
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.32
+dv_has_place_latitude: 48.62
+dv_name: Ungvar
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.32] 
-[has_place_latitude::48.62] 
-[name::Ungvar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ungvar](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar|Ungvar]] 
 
-### [Ungvar.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.public|Ungvar.public]] 
 
-### [Ungvar.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.internal|Ungvar.internal]] 
 
-### [Ungvar.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.protect|Ungvar.protect]] 
 
-### [Ungvar.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.private|Ungvar.private]] 
 
-### [Ungvar.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.personal|Ungvar.personal]] 
 
-### [Ungvar.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Ungvar.secret|Ungvar.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31166
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 33.67
+dv_has_place_latitude: 51.55
+dv_name: Jaroslavek
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::33.67] 
-[has_place_latitude::51.55] 
-[name::Jaroslavek] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jaroslavek](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek|Jaroslavek]] 
 
-### [Jaroslavek.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.public|Jaroslavek.public]] 
 
-### [Jaroslavek.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.internal|Jaroslavek.internal]] 
 
-### [Jaroslavek.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.protect|Jaroslavek.protect]] 
 
-### [Jaroslavek.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.private|Jaroslavek.private]] 
 
-### [Jaroslavek.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.personal|Jaroslavek.personal]] 
 
-### [Jaroslavek.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Sumy/City/Jaroslavek.secret|Jaroslavek.secret]] 
 

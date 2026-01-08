@@ -1,7 +1,7 @@
 ---
 aliases:
 has_id_wikidata: Q35000
-Wolfram_Language_entity_code: Entity["Concept", "SeaOfAzof::phh42"]
+Wolfram_Language_entity_code: Entity"Concept", "SeaOfAzof = `=this.dv_"Concept", "SeaOfAzof`
 Commons_category: Sea of Azov
 inflows:
   - "[[_Standards/WikiData/WD~Kuban,82308]]"
@@ -75,11 +75,16 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Bm%20krim.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Long%20Spit%20Sea%20of%20Azov%2C%20Yeisk%20district%2C%20Krasnodar%20region.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sea%20of%20Azov%202017.png
 Dewey_Decimal_Classification: 2--16389
+dv_"Concept", "SeaOfAzof: phh42"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Sea_of_Azov,35000]]"
+dv_concept-seaofazof: phh42"
+dv_is_same_as: "[[../../../../../WikiData/WD~Sea_of_Azov,35000]]"
 ---
 
 # [[Sea_of_Azov]] 
 
-#is_/same_as :: [[WD~Sea_of_Azov,35000]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -105,4 +110,21 @@ Dewey_Decimal_Classification: 2--16389
 > The Sea of Azov is the shallowest sea in the world, with the depth varying between 0.9 and 14 metres (3 and 46 ft). There is a constant outflow of water from the Sea of Azov to the Black Sea.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20of%20Azov) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov|Sea_of_Azov]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.public|Sea_of_Azov.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.internal|Sea_of_Azov.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.protect|Sea_of_Azov.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.private|Sea_of_Azov.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.personal|Sea_of_Azov.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Sea_of_Azov.secret|Sea_of_Azov.secret]] 
 

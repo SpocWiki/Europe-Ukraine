@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29576
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31.27
+dv_has_place_latitude: 51.5
+dv_name: Chermigov
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31.27] 
-[has_place_latitude::51.5] 
-[name::Chermigov] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chermigov](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov|Chermigov]] 
 
-### [Chermigov.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.public|Chermigov.public]] 
 
-### [Chermigov.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.internal|Chermigov.internal]] 
 
-### [Chermigov.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.protect|Chermigov.protect]] 
 
-### [Chermigov.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.private|Chermigov.private]] 
 
-### [Chermigov.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.personal|Chermigov.personal]] 
 
-### [Chermigov.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernihiv/City/Chermigov.secret|Chermigov.secret]] 
 

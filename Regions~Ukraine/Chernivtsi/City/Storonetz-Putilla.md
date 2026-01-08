@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34601
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.08
+dv_has_place_latitude: 47.98
+dv_name: Storonetz-Putilla
+dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.08] 
-[has_place_latitude::47.98] 
-[name::Storonetz-Putilla] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Storonetz-Putilla](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla|Storonetz-Putilla]] 
 
-### [Storonetz-Putilla.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.public|Storonetz-Putilla.public]] 
 
-### [Storonetz-Putilla.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.internal|Storonetz-Putilla.internal]] 
 
-### [Storonetz-Putilla.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.protect|Storonetz-Putilla.protect]] 
 
-### [Storonetz-Putilla.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.private|Storonetz-Putilla.private]] 
 
-### [Storonetz-Putilla.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.personal|Storonetz-Putilla.personal]] 
 
-### [Storonetz-Putilla.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Chernivtsi/City/Storonetz-Putilla.secret|Storonetz-Putilla.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Dnipropetrovs'k/
 
 ## Confidential Links & Embeds: 
 
-### [Dnipropetrovs'k](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k|Dnipropetrovs'k]] 
 
-### [Dnipropetrovs'k.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.public|Dnipropetrovs'k.public]] 
 
-### [Dnipropetrovs'k.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.internal|Dnipropetrovs'k.internal]] 
 
-### [Dnipropetrovs'k.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.protect|Dnipropetrovs'k.protect]] 
 
-### [Dnipropetrovs'k.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.private|Dnipropetrovs'k.private]] 
 
-### [Dnipropetrovs'k.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.personal|Dnipropetrovs'k.personal]] 
 
-### [Dnipropetrovs'k.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Dnipropetrovs'k.secret|Dnipropetrovs'k.secret]] 
 

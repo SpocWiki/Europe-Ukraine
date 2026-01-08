@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31588
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 35.72
+dv_has_place_latitude: 45.2
+dv_name: Koslow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::35.72] 
-[has_place_latitude::45.2] 
-[name::Koslow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koslow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow|Koslow]] 
 
-### [Koslow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.public|Koslow.public]] 
 
-### [Koslow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.internal|Koslow.internal]] 
 
-### [Koslow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.protect|Koslow.protect]] 
 
-### [Koslow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.private|Koslow.private]] 
 
-### [Koslow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.personal|Koslow.personal]] 
 
-### [Koslow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Crimea/City/Koslow.secret|Koslow.secret]] 
 

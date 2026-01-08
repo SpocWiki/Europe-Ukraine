@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29544
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 36.23
+dv_has_place_latitude: 49.98
+dv_name: Charkow
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::36.23] 
-[has_place_latitude::49.98] 
-[name::Charkow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charkow](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow|Charkow]] 
 
-### [Charkow.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.public|Charkow.public]] 
 
-### [Charkow.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.internal|Charkow.internal]] 
 
-### [Charkow.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.protect|Charkow.protect]] 
 
-### [Charkow.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.private|Charkow.private]] 
 
-### [Charkow.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.personal|Charkow.personal]] 
 
-### [Charkow.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Kharkiv/City/Charkow.secret|Charkow.secret]] 
 

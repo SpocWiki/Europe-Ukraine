@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29110
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.63
+dv_has_place_latitude: 48.22
+dv_name: Beregszasz
+dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.63] 
-[has_place_latitude::48.22] 
-[name::Beregszasz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beregszasz](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz|Beregszasz]] 
 
-### [Beregszasz.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.public|Beregszasz.public]] 
 
-### [Beregszasz.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.internal|Beregszasz.internal]] 
 
-### [Beregszasz.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.protect|Beregszasz.protect]] 
 
-### [Beregszasz.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.private|Beregszasz.private]] 
 
-### [Beregszasz.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.personal|Beregszasz.personal]] 
 
-### [Beregszasz.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Ukraine/Regions~Ukraine/Transcarpathia/City/Beregszasz.secret|Beregszasz.secret]] 
 
