@@ -1,7 +1,36 @@
-﻿---
+---
+dv_has_:
+  time_:
+    started: 1932-06-01T00:00:00.000+01:00
+    stopped: 1933-06-01T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|1932-Holodomor-1933]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public|1932-Holodomor-1933.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal|1932-Holodomor-1933.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect|1932-Holodomor-1933.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private|1932-Holodomor-1933.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal|1932-Holodomor-1933.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret|1932-Holodomor-1933.secret]]"
+dv_has_time_started: 1932-06-01
+dv_has_time_stopped: 1933-06-01
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|1932-Holodomor-1933]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public|1932-Holodomor-1933.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal|1932-Holodomor-1933.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect|1932-Holodomor-1933.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private|1932-Holodomor-1933.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal|1932-Holodomor-1933.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret|1932-Holodomor-1933.secret]]"
+
 has_time_started: 1932-01-01 
 has_time_stopped: 1933-01-01 
+location: [ 49.0, 32.0 ] 
 aliases:
+  - Ukrainian Famine
+  - 1932-Holodomor-1933
 has_id_wikidata: Q165058
 locations: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
 instance_of:
@@ -38,22 +67,84 @@ end_time: 1933-01-01T00:00:00Z
 start_time: 1932-01-01T00:00:00Z
 ---
 
-# [[Holodomor]] 
+# [[1932-Holodomor-1933]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]] 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+
+#is_/same_as :: [[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]] 
+
+## #has_/map  
+
+```leaflet
+id: Holodomor
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Holodomor//
+markerFolder: ./Holodomor/
+coordinates: [[Holodomor]] 
+markerFile: [[Holodomor]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 
 > The **Holodomor**, also known as the Ukrainian famine, 
-> was a mass famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. 
+> was a man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians. 
+> 
 > The Holodomor was part of the wider Soviet famine of 1930–1933 
 > which affected the major grain-producing areas of the Soviet Union.
 >
-> While most scholars are in consensus that the main cause of the famine was largely man-made, it remains in dispute whether the Holodomor was intentional, whether it was directed at Ukrainians, and whether it constitutes a genocide, the point of contention being the absence of attested documents explicitly ordering the starvation of any area in the Soviet Union. Some historians conclude that the famine was deliberately engineered by Joseph Stalin to eliminate a Ukrainian independence movement. Others suggest that the famine was primarily the consequence of rapid Soviet industrialisation and collectivization of agriculture. A middle position is that the initial causes of the famine were an unintentional byproduct of the process of collectivization but once it set in, starvation was selectively weaponized, and the famine was "instrumentalized" and amplified against Ukrainians as a means to punish them for resisting Soviet policies and to suppress their nationalist sentiments.
+> While scholars are in consensus that the cause of the famine was man-made, 
+> it remains in dispute whether the Holodomor was directed at Ukrainians 
+> and whether it constitutes a genocide, 
+> the point of contention being the absence of attested documents 
+> explicitly ordering the starvation of any area in the Soviet Union. 
+> 
+> Some historians conclude that the famine was deliberately engineered by Joseph Stalin 
+> to eliminate a Ukrainian independence movement. 
+> Others suggest that the famine was primarily the consequence of rapid Soviet industrialisation 
+> and collectivization of agriculture. 
+> A middle position, held for example by historian Andrea Graziosi, is 
+> that the initial causes of the famine were an unintentional byproduct of the process of collectivization 
+> but once it set in, starvation was selectively weaponized 
+> and the famine was "instrumentalized" and amplified against Ukrainians 
+> to punish them for their rejection of the "new serfdom" and to break their nationalism.
 >
-> Ukraine was one of the largest grain-producing states in the USSR and was subject to unreasonably high grain quotas compared to the rest of the USSR in 1930. This caused Ukraine to be hit particularly hard by the famine. Early estimates of the death toll by scholars and government officials vary greatly. A joint statement to the United Nations signed by 25 countries in 2003 declared that 7 to 10 million people died. More recent scholarship has estimated a lower range of between 3.5 and 5 million victims.
+> Ukraine was one of the largest grain-producing states in the USSR 
+> and was subject to unreasonably high grain quotas compared to the rest of the USSR. 
+> This caused Ukraine to be hit particularly hard by the famine. 
+> Early estimates of the death toll by scholars and government officials vary greatly. 
+> A joint statement to the United Nations signed by 25 countries in 2003 declared that 7 to 10 million died. 
+> However, current scholarship estimates a range significantly lower with 3.5 to 5 million victims. 
+> The famine's widespread impact on Ukraine persists to this day.
 >
-> Public discussion of the famine was banned in the Soviet Union until the glasnost period initiated by Mikhail Gorbachev in the 1980s. Since 2006, the Holodomor has been recognized as a genocide by Ukraine and 33 other UN member states, the European Parliament, and 35 of the 50 states of the United States as a genocide against the Ukrainian people carried out by the Soviet government. In 2008, the Russian State Duma condemned the Soviet regime "that has neglected the lives of people for the achievement of economic and political goals".
+> Public discussion of the famine was banned in the Soviet Union 
+> until the glasnost period initiated by Mikhail Gorbachev in the 1980s. 
+> 
+> Since 2006, the Holodomor has been recognized by Ukraine and 33 other UN member states, 
+> the European Parliament, and 35 of the 50 states of the United States 
+> as a genocide against the Ukrainian people carried out by the Soviet government. 
+> In 2008, the Russian State Duma condemned the Soviet regime 
+> "that has neglected the lives of people for the achievement of economic and political goals".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holodomor) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|1932-Holodomor-1933]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public|1932-Holodomor-1933.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal|1932-Holodomor-1933.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect|1932-Holodomor-1933.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private|1932-Holodomor-1933.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal|1932-Holodomor-1933.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret|1932-Holodomor-1933.secret]] 
 
