@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.13
 dv_has_place_latitude: 49.2
-dv_name: Gradishsk
+dv_has_name_: Gradishsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

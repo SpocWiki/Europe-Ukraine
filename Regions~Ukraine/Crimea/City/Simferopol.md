@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 34.1
 dv_has_place_latitude: 44.95
-dv_name: Simferopol
+dv_has_name_: Simferopol
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

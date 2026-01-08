@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.82
 dv_has_place_latitude: 48.43
-dv_name: Mogilew-Podolskiy
+dv_has_name_: Mogilew-Podolskiy
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

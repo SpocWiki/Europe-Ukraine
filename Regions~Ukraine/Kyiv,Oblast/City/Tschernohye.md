@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.23
 dv_has_place_latitude: 51.28
-dv_name: Tschernohye
+dv_has_name_: Tschernohye
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

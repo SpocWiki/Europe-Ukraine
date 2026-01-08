@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.95
 dv_has_place_latitude: 50.28
-dv_name: Woltschansk
+dv_has_name_: Woltschansk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

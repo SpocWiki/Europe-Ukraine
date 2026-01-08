@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31.03
 dv_has_place_latitude: 46.83
-dv_name: Tiraspol
+dv_has_name_: Tiraspol
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

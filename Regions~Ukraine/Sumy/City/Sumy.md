@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 34.8
 dv_has_place_latitude: 50.92
-dv_name: Sumy
+dv_has_name_: Sumy
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

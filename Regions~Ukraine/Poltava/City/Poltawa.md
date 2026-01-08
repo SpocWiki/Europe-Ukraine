@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 34.57
 dv_has_place_latitude: 49.58
-dv_name: Poltawa
+dv_has_name_: Poltawa
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

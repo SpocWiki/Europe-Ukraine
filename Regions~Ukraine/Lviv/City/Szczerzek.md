@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.57
 dv_has_place_latitude: 50.1
-dv_name: Szczerzek
+dv_has_name_: Szczerzek
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

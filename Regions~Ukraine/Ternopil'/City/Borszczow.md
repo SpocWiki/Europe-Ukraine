@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.05
 dv_has_place_latitude: 48.8
-dv_name: Borszczow
+dv_has_name_: Borszczow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

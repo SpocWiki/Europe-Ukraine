@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.82
 dv_has_place_latitude: 49.98
-dv_name: Triliessy
+dv_has_name_: Triliessy
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.63
 dv_has_place_latitude: 48.22
-dv_name: Beregszasz
+dv_has_name_: Beregszasz
 dv_Country: "[[../../../../Hungary]]"
 ---
 #is_a_/Place  

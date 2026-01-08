@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.12
 dv_has_place_latitude: 50.15
-dv_name: Koniuskow
+dv_has_name_: Koniuskow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

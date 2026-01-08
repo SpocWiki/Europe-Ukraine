@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.52
 dv_has_place_latitude: 49.03
-dv_name: Skole
+dv_has_name_: Skole
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

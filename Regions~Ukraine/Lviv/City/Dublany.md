@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.03
 dv_has_place_latitude: 49.9
-dv_name: Dublany
+dv_has_name_: Dublany
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

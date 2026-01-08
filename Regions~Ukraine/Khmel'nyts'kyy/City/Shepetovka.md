@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.07
 dv_has_place_latitude: 50.2
-dv_name: Shepetovka
+dv_has_name_: Shepetovka
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

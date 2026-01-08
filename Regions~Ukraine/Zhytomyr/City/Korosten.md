@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.6
 dv_has_place_latitude: 50.95
-dv_name: Korosten
+dv_has_name_: Korosten
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

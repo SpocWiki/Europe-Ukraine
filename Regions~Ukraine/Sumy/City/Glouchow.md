@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.92
 dv_has_place_latitude: 51.68
-dv_name: Glouchow
+dv_has_name_: Glouchow
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

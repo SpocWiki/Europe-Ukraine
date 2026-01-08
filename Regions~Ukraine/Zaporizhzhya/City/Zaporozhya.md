@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.17
 dv_has_place_latitude: 47.8
-dv_name: Zaporozhya
+dv_has_name_: Zaporozhya
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

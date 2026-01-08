@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.02
 dv_has_place_latitude: 48.45
-dv_name: Dnjepropetrowsk
+dv_has_name_: Dnjepropetrowsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

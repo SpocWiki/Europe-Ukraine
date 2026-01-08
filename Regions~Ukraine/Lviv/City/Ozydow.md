@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.87
 dv_has_place_latitude: 49.7
-dv_name: Ozydow
+dv_has_name_: Ozydow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.93
 dv_has_place_latitude: 48.3
-dv_name: Czernowitz
+dv_has_name_: Czernowitz
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

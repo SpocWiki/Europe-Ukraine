@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.93
 dv_has_place_latitude: 48.88
-dv_name: Maksymonoka
+dv_has_name_: Maksymonoka
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

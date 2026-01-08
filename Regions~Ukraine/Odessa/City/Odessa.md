@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.77
 dv_has_place_latitude: 46.48
-dv_name: Odessa
+dv_has_name_: Odessa
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"

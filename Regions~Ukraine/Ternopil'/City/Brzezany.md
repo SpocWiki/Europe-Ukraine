@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.87
 dv_has_place_latitude: 49.45
-dv_name: Brzezany
+dv_has_name_: Brzezany
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

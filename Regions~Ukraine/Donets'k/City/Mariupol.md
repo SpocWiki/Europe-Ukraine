@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 37.58
 dv_has_place_latitude: 47.1
-dv_name: Mariupol
+dv_has_name_: Mariupol
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

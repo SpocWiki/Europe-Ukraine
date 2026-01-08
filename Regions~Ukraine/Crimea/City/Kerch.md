@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 36.43
 dv_has_place_latitude: 45.4
-dv_name: Kerch
+dv_has_name_: Kerch
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 35.02
 dv_has_place_latitude: 44.85
-dv_name: Soudak
+dv_has_name_: Soudak
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

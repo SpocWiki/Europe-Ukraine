@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.15
 dv_has_place_latitude: 50.58
-dv_name: Rovno
+dv_has_name_: Rovno
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

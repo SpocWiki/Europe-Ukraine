@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.7
 dv_has_place_latitude: 46.17
-dv_name: Perekop
+dv_has_name_: Perekop
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

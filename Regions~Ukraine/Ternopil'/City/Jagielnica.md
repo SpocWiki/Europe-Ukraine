@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.75
 dv_has_place_latitude: 48.93
-dv_name: Jagielnica
+dv_has_name_: Jagielnica
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 32.52
 dv_has_place_latitude: 51.52
-dv_name: Sosnitza
+dv_has_name_: Sosnitza
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

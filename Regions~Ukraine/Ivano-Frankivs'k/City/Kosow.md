@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.15
 dv_has_place_latitude: 48.33
-dv_name: Kosow
+dv_has_name_: Kosow
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

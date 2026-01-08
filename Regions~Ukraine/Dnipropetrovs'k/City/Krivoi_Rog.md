@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 33.35
 dv_has_place_latitude: 47.9
-dv_name: Krivoi Rog
+dv_has_name_: Krivoi Rog
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

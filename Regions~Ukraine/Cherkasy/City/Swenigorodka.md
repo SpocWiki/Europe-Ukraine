@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.97
 dv_has_place_latitude: 49.08
-dv_name: Swenigorodka
+dv_has_name_: Swenigorodka
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.82
 dv_has_place_latitude: 45.35
-dv_name: Ismail
+dv_has_name_: Ismail
 dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  

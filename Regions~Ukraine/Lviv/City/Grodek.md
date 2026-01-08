@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.65
 dv_has_place_latitude: 49.77
-dv_name: Grodek
+dv_has_name_: Grodek
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

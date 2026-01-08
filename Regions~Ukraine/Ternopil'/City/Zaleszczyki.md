@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.77
 dv_has_place_latitude: 48.72
-dv_name: Zaleszczyki
+dv_has_name_: Zaleszczyki
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

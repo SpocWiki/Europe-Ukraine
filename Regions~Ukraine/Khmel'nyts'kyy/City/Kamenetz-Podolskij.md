@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.57
 dv_has_place_latitude: 48.67
-dv_name: Kamenetz-Podolskij
+dv_has_name_: Kamenetz-Podolskij
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

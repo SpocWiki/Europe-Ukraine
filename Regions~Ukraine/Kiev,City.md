@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.5
 dv_has_place_latitude: 50.45
-dv_name: Kiew
+dv_has_name_: Kiew
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"

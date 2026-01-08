@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.5
 dv_has_place_latitude: 48.53
-dv_name: Horodenra
+dv_has_name_: Horodenra
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
