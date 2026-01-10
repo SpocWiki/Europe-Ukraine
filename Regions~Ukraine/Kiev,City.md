@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.5
 dv_has_place_latitude: 50.45
-dv_has_name_: Kiew
+dv_has_name: Kiew
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
 dv_is_same_as: "[[../../../../../../WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]"
@@ -229,7 +229,7 @@ postal_code: 01000–06999
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Ukraine]]  
 [StateId::] 

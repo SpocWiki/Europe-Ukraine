@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.77
 dv_has_place_latitude: 46.48
-dv_has_name_: Odessa
+dv_has_name: Odessa
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Odesa,1874|WD~Odesa,1874]]"
@@ -132,7 +132,7 @@ inception: 1500-01-01T00:00:00Z
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Russia]]  
 [StateId::] 
