@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 乌克兰
 dv_UNTERM_French_Formal: l'Ukraine
 dv_UNTERM_Russian: Украина
 dv_UNTERM_Russian_Formal: Украина
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Ukraine]]'
 dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: UA
 dv_ISO3: UKR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+  - '[[../../../../../WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine|Ukraine]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East/Ukraine.public|Ukraine.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal|Ukraine.internal]]'
@@ -413,17 +413,17 @@ dv_has_:
 dv_has_name_de: Ukraine
 dv_Area-Total: 603700
 dv_Area-Land: 579350
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: UA
-dv_Capital: '[[Ukraine/Regions~Ukraine/Kiev,City|Kiev,City]]'
+dv_Capital: '[[Regions~Ukraine/Kiev,City|Kiev,City]]'
 dv_Alcohol-l: 15.6
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 30.5
 dv_has_place_latitude: 50.45
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
+- '[[../../../../../WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East/Ukraine|Ukraine]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East/Ukraine.public|Ukraine.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal|Ukraine.internal]]'
@@ -664,7 +664,7 @@ demonym:
 - українка
 - українці
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
@@ -1061,7 +1061,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Ukraine/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1081,7 +1081,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Ukraine_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1107,7 +1107,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Ukraine.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ukraine.mp3|Anthem-Ukraine.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Ukraine.mp3|Anthem-Ukraine.mp3]]
 ![[Flag_of_Ukraine.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
